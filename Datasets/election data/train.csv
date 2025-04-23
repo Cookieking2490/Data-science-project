@@ -1,0 +1,1391 @@
+tweet_id,user_handle,Comment,sentiment,Comment Length,scaled_length,Length Category
+1,@user123,Excited to see Kamala Harris leading the Democratic charge!,1,59,-0.350245852,Medium
+2,@politicsFan,Donald Trump's policies are the best for our economy.,1,53,-0.37095189,Medium
+3,@greenAdvocate,Jill Stein's environmental plans are exactly what we need.,1,58,-0.353696858,Medium
+4,@indieVoice,Robert Kennedy offers a fresh perspective outside the two-party system.,1,71,-0.308833775,Medium
+5,@libertyLover,Chase Oliver's libertarian stance promotes true freedom.,1,56,-0.360598871,Medium
+6,@user456,Kamala Harris has been a strong advocate for healthcare reform.,1,63,-0.336441826,Medium
+7,@econGuru,Trump's tax policies will benefit small businesses.,-1,51,-0.377853903,Medium
+8,@ecoWarrior,Jill Stein's green initiatives could save our planet.,-1,53,-0.37095189,Medium
+9,@neutralNow,Robert Kennedy is running as an independent; interesting choice.,1,64,-0.33299082,Medium
+10,@freedomFirst,Chase Oliver promotes minimal government intervention. Love it!,1,63,-0.336441826,Medium
+11,@user789,Kamala Harris is tackling education issues head-on.,0,51,-0.377853903,Medium
+12,@taxTalk,Trump's latest policy could lower taxes for the middle class.,1,61,-0.343343839,Medium
+13,@sustainability,Jill Stein's renewable energy plans are ambitious.,1,50,-0.38130491,Short
+14,@indepThought,Robert Kennedy might disrupt the traditional party dynamics.,0,60,-0.346794846,Medium
+15,@libertySeek,Chase Oliver's views on personal freedom are refreshing.,1,56,-0.360598871,Medium
+16,@user321,Kamala Harris is making strides in criminal justice reform.,-1,59,-0.350245852,Medium
+17,@businessInsider,Trump's deregulation efforts are boosting the stock market.,0,59,-0.350245852,Medium
+18,@greenFuture,Jill Stein advocates for sustainable agriculture.,0,49,-0.384755916,Short
+19,@watchingNow,Robert Kennedy's independent run adds more choices for voters.,1,62,-0.339892833,Medium
+20,@freeMarket,Chase Oliver supports free-market solutions for healthcare.,0,59,-0.350245852,Medium
+21,@user654,Kamala Harris is a strong leader for progressive change.,1,56,-0.360598871,Medium
+22,@policyMaker,Trump's stance on immigration is reshaping national policy.,0,59,-0.350245852,Medium
+23,@ecoSupport,Jill Stein's proposals for green jobs are commendable.,-1,54,-0.367500884,Medium
+24,@neutralThoughts,Robert Kennedy's platform as an independent is unclear.,0,55,-0.364049878,Medium
+25,@freedomVoice,Chase Oliver emphasizes individual liberties in his campaign.,0,61,-0.343343839,Medium
+26,@user987,Kamala Harris continues to push for affordable housing.,0,55,-0.364049878,Medium
+27,@marketWatch,Trump's economic policies are controversial but effective.,1,58,-0.353696858,Medium
+28,@greenInitiative,Jill Stein is focusing on climate change legislation.,0,53,-0.37095189,Medium
+29,@indieSupport,Robert Kennedy offers an alternative to traditional parties.,1,60,-0.346794846,Medium
+30,@libertyRights,Chase Oliver advocates for gun rights and personal freedom.,0,59,-0.350245852,Medium
+31,@user159,Kamala Harris is addressing income inequality in her speeches.,0,62,-0.339892833,Medium
+32,@taxPolicy,Trump's tax cuts are benefiting the wealthy disproportionately.,1,63,-0.336441826,Medium
+33,@sustainableLiving,Jill Stein promotes electric vehicles to reduce emissions.,0,58,-0.353696858,Medium
+34,@independantView,Robert Kennedy's policies are a mix of left and right ideologies.,1,65,-0.329539814,Medium
+35,@freedomAdvocate,Chase Oliver's economic plans prioritize individual choice.,1,59,-0.350245852,Medium
+36,@user753,Kamala Harris is a beacon of hope for many voters.,1,50,-0.38130491,Short
+37,@econDebate,Trump's approach to trade is leading to new international agreements.,1,69,-0.315735788,Medium
+38,@greenEnergy,Jill Stein's solar energy plans could revolutionize power grids.,0,64,-0.33299082,Medium
+39,@neutralOpinion,"Robert Kennedy remains neutral on some key issues, causing uncertainty.",0,71,-0.308833775,Medium
+40,@libertyMovement,Chase Oliver is building a strong base among libertarian voters.,-1,64,-0.33299082,Medium
+41,@user852,Kamala Harris's foreign policy plans are ambitious and detailed.,1,64,-0.33299082,Medium
+42,@policyWatch,Trump's healthcare policies are sparking nationwide debates.,0,60,-0.346794846,Medium
+43,@ecoFriendly,Jill Stein is advocating for zero-waste cities.,0,47,-0.391657929,Short
+44,@indepThoughts,Robert Kennedy is focusing on bipartisan solutions.,0,51,-0.377853903,Medium
+45,@freedomFighter,Chase Oliver supports abolishing the IRS for more freedom.,1,58,-0.353696858,Medium
+46,@user963,Kamala Harris's initiatives on climate change are groundbreaking.,0,65,-0.329539814,Medium
+47,@taxReform,Trump's latest tax reform favors large corporations.,1,52,-0.374402897,Medium
+48,@sustainableFuture,Jill Stein's policies aim to make cities more sustainable.,1,58,-0.353696858,Medium
+49,@indieChoice,Robert Kennedy's independent stance attracts diverse voters.,0,60,-0.346794846,Medium
+50,@libertyValues,Chase Oliver's commitment to liberty resonates with many.,1,57,-0.357147865,Medium
+51,@ecoChampion,Jill Stein's new recycling program is a game-changer!,1,53,-0.37095189,Medium
+52,@policyPro,Kamala Harris is implementing effective education policies.,1,59,-0.350245852,Medium
+53,@marketMover,Trump's trade deals are benefiting American industries.,0,55,-0.364049878,Medium
+54,@indieInsight,Robert Kennedy is bridging gaps between different voter groups.,0,63,-0.336441826,Medium
+55,@libertyVoice,Chase Oliver's stance on free speech is admirable.,1,50,-0.38130491,Short
+56,@user111,Kamala Harris's healthcare initiatives are saving lives.,0,56,-0.360598871,Medium
+57,@taxWise,Trump's tax reforms are attracting business investments.,0,56,-0.360598871,Medium
+58,@greenVision,Jill Stein envisions a greener future with sustainable practices.,0,65,-0.329539814,Medium
+59,@neutralPulse,Robert Kennedy maintains a balanced approach to policies.,0,57,-0.357147865,Medium
+60,@freedomAdvocacy,Chase Oliver champions individual rights and freedoms.,0,54,-0.367500884,Medium
+61,@user222,Kamala Harris is a beacon of hope for many voters.,1,50,-0.38130491,Short
+62,@econTalk,Trump's economic strategies are leading to growth.,1,50,-0.38130491,Short
+63,@greenFutureNow,Jill Stein's solar projects are reducing carbon footprints.,0,59,-0.350245852,Medium
+64,@indiePerspective,Robert Kennedy offers practical solutions outside party lines.,1,62,-0.339892833,Medium
+65,@libertyMovement,Chase Oliver is building a strong base among libertarian voters.,-1,64,-0.33299082,Medium
+66,@user333,Kamala Harris's foreign policy plans are ambitious and detailed.,1,64,-0.33299082,Medium
+67,@policyDebate,Trump's healthcare policies are sparking nationwide debates.,0,60,-0.346794846,Medium
+68,@ecoFriendlyLiving,Jill Stein is advocating for zero-waste cities.,0,47,-0.391657929,Short
+69,@indepThoughts,Robert Kennedy is focusing on bipartisan solutions.,0,51,-0.377853903,Medium
+70,@freedomFighter,Chase Oliver supports abolishing the IRS for more freedom.,1,58,-0.353696858,Medium
+71,@user444,Kamala Harris's initiatives on climate change are groundbreaking.,0,65,-0.329539814,Medium
+72,@taxReformNow,Trump's latest tax reform favors large corporations.,1,52,-0.374402897,Medium
+73,@sustainableCity,Jill Stein's policies aim to make cities more sustainable.,1,58,-0.353696858,Medium
+74,@indieChoice,Robert Kennedy's independent stance attracts diverse voters.,0,60,-0.346794846,Medium
+75,@libertyValues,Chase Oliver's commitment to liberty resonates with many.,1,57,-0.357147865,Medium
+76,@ecoSupporter,Jill Stein's latest environmental initiative is inspiring!,1,58,-0.353696858,Medium
+77,@policyWatcher,Kamala Harris is leading effective reforms in education.,1,56,-0.360598871,Medium
+78,@marketLeader,Trump's trade policies are boosting American exports.,0,53,-0.37095189,Medium
+79,@indieVision,Robert Kennedy brings new ideas to the political landscape.,1,59,-0.350245852,Medium
+80,@libertyAdvocate,Chase Oliver's policies on free markets are commendable.,1,56,-0.360598871,Medium
+81,@user555,Kamala Harris is addressing income inequality in her speeches.,0,62,-0.339892833,Medium
+82,@taxPolicyUpdate,Trump's tax cuts are benefiting the wealthy disproportionately.,1,63,-0.336441826,Medium
+83,@sustainableLivingNow,Jill Stein promotes electric vehicles to reduce emissions.,0,58,-0.353696858,Medium
+84,@independantView,Robert Kennedy's policies are a mix of left and right ideologies.,1,65,-0.329539814,Medium
+85,@freedomAdvocate,Chase Oliver's economic plans prioritize individual choice.,1,59,-0.350245852,Medium
+86,@user666,Kamala Harris is a beacon of hope for many voters.,1,50,-0.38130491,Short
+87,@econDebate,Trump's approach to trade is leading to new international agreements.,1,69,-0.315735788,Medium
+88,@greenEnergy,Jill Stein's solar energy plans could revolutionize power grids.,0,64,-0.33299082,Medium
+89,@neutralOpinion,"Robert Kennedy remains neutral on some key issues, causing uncertainty.",0,71,-0.308833775,Medium
+90,@libertyMovement,Chase Oliver is building a strong base among libertarian voters.,-1,64,-0.33299082,Medium
+91,@user777,Kamala Harris's foreign policy plans are ambitious and detailed.,1,64,-0.33299082,Medium
+92,@policyWatch,Trump's healthcare policies are sparking nationwide debates.,0,60,-0.346794846,Medium
+93,@ecoFriendly,Jill Stein is advocating for zero-waste cities.,0,47,-0.391657929,Short
+94,@indepThoughts,Robert Kennedy is focusing on bipartisan solutions.,0,51,-0.377853903,Medium
+95,@freedomFighter,Chase Oliver supports abolishing the IRS for more freedom.,1,58,-0.353696858,Medium
+96,@user888,Kamala Harris's initiatives on climate change are groundbreaking.,0,65,-0.329539814,Medium
+97,@taxReform,Trump's latest tax reform favors large corporations.,1,52,-0.374402897,Medium
+98,@sustainableFuture,Jill Stein's policies aim to make cities more sustainable.,1,58,-0.353696858,Medium
+99,@indieChoice,Robert Kennedy's independent stance attracts diverse voters.,0,60,-0.346794846,Medium
+100,@libertyValues,Chase Oliver's commitment to liberty resonates with many.,1,57,-0.357147865,Medium
+101,@user999,Kamala Harris is championing affordable education for all.,0,58,-0.353696858,Medium
+102,@policyGuru,Trump's immigration policies are sparking national conversations.,0,65,-0.329539814,Medium
+103,@greenAdvocate2,Jill Stein's commitment to renewable energy is inspiring.,1,57,-0.357147865,Medium
+104,@indieVoice2,Robert Kennedy is bringing fresh ideas to the independent race.,1,63,-0.336441826,Medium
+105,@libertyFan,Chase Oliver's policies on tax reduction are gaining traction.,0,62,-0.339892833,Medium
+106,@user1000,Kamala Harris is working tirelessly on climate legislation.,0,59,-0.350245852,Medium
+107,@econExpert,Trump's economic strategies are a double-edged sword.,1,53,-0.37095189,Medium
+108,@ecoWarrior2,Jill Stein's plan for sustainable cities is ahead of its time.,0,62,-0.339892833,Medium
+109,@neutralMind,Robert Kennedy remains a wildcard in this election.,0,51,-0.377853903,Medium
+110,@freedomFirst2,Chase Oliver advocates for complete government deregulation.,1,60,-0.346794846,Medium
+111,@user1001,Kamala Harris is bridging gaps in healthcare access.,0,52,-0.374402897,Medium
+112,@taxTalk2,Trump's latest tax plan favors the upper class.,1,47,-0.391657929,Short
+113,@sustainability2,Jill Stein is pushing for electric public transportation.,0,57,-0.357147865,Medium
+114,@indepThought3,Robert Kennedy's independent run is shaking things up.,0,54,-0.367500884,Medium
+115,@libertySeek2,Chase Oliver's focus on personal freedom is resonating with voters.,0,67,-0.322637801,Medium
+116,@user1002,Kamala Harris is making significant progress in infrastructure development.,1,75,-0.29502975,Medium
+117,@businessInsider2,Trump's deregulation policies are controversial among experts.,1,62,-0.339892833,Medium
+118,@greenFuture2,Jill Stein's focus on green technology is commendable.,-1,54,-0.367500884,Medium
+119,@watchingNow2,Robert Kennedy's policies appeal to a broad spectrum of voters.,1,63,-0.336441826,Medium
+120,@freeMarket2,Chase Oliver supports free-market solutions for education reform.,0,65,-0.329539814,Medium
+121,@user1003,Kamala Harris is dedicated to reducing student loan debt.,0,57,-0.357147865,Medium
+122,@policyMaker2,Trump's stance on trade tariffs is affecting international relations.,0,69,-0.315735788,Medium
+123,@ecoSupport2,Jill Stein's initiatives for green jobs are creating opportunities.,-1,67,-0.322637801,Medium
+124,@neutralThoughts2,Robert Kennedy's platform lacks clarity on key issues.,0,54,-0.367500884,Medium
+125,@freedomVoice2,Chase Oliver emphasizes the importance of individual liberties.,0,63,-0.336441826,Medium
+126,@user1004,Kamala Harris continues to advocate for affordable housing solutions.,0,69,-0.315735788,Medium
+127,@marketWatch2,Trump's economic policies are under scrutiny from various sectors.,1,66,-0.326088807,Medium
+128,@greenInitiative2,Jill Stein is leading the charge on climate change legislation.,0,63,-0.336441826,Medium
+129,@indieSupport2,Robert Kennedy offers a unique perspective outside the mainstream parties.,1,74,-0.298480756,Medium
+130,@libertyRights2,Chase Oliver advocates for the protection of gun rights.,0,56,-0.360598871,Medium
+131,@user1005,Kamala Harris is addressing wage gaps in her latest policy proposal.,1,68,-0.319186794,Medium
+132,@taxPolicy2,Trump's tax cuts are criticized for benefiting the wealthy.,1,59,-0.350245852,Medium
+133,@sustainableLiving2,Jill Stein promotes the adoption of electric vehicles to combat pollution.,0,74,-0.298480756,Medium
+134,@independantView2,Robert Kennedy's policies blend elements from both major parties.,1,65,-0.329539814,Medium
+135,@freedomAdvocate2,Chase Oliver's economic plans focus on reducing government intervention.,1,72,-0.305382769,Medium
+136,@user1006,Kamala Harris is a beacon of hope for progressive voters.,0,57,-0.357147865,Medium
+137,@econDebate2,Trump's trade policies are reshaping global markets.,0,52,-0.374402897,Medium
+138,@greenEnergy2,Jill Stein's solar energy initiatives could transform the power industry.,0,73,-0.301931763,Medium
+139,@neutralOpinion2,Robert Kennedy remains non-committal on several key issues.,0,59,-0.350245852,Medium
+140,@libertyMovement2,Chase Oliver is gaining support among young libertarians.,1,57,-0.357147865,Medium
+141,@user1007,Kamala Harris's foreign policy is gaining international attention.,-1,66,-0.326088807,Medium
+142,@policyWatch2,Trump's healthcare policies are facing backlash from multiple fronts.,0,69,-0.315735788,Medium
+143,@ecoFriendly2,Jill Stein is pushing for zero-waste initiatives in urban areas.,0,64,-0.33299082,Medium
+144,@indepThoughts2,Robert Kennedy is emphasizing bipartisan cooperation in his campaign.,0,69,-0.315735788,Medium
+145,@freedomFighter2,Chase Oliver supports eliminating the IRS to increase personal freedoms.,0,72,-0.305382769,Medium
+146,@user1008,Kamala Harris's climate initiatives are setting new standards.,1,62,-0.339892833,Medium
+147,@taxReform2,Trump's latest tax reforms are criticized for favoring large businesses.,1,72,-0.305382769,Medium
+148,@sustainableFuture2,Jill Stein aims to make cities more eco-friendly with her new policies.,1,71,-0.308833775,Medium
+149,@indieChoice2,Robert Kennedy's independent run is attracting a diverse voter base.,-1,68,-0.319186794,Medium
+150,@libertyValues2,Chase Oliver's dedication to liberty is winning him loyal supporters.,1,69,-0.315735788,Medium
+151,@ecoChampion2,Jill Stein's new recycling initiative is receiving widespread praise.,1,69,-0.315735788,Medium
+152,@policyPro2,Kamala Harris is rolling out new education reforms aimed at inclusivity.,1,72,-0.305382769,Medium
+153,@marketMover2,Trump's trade agreements are boosting certain American industries.,1,66,-0.326088807,Medium
+154,@indieInsight2,Robert Kennedy is working to unite various voter factions.,0,58,-0.353696858,Medium
+155,@libertyVoice2,Chase Oliver's advocacy for free speech is gaining momentum.,1,60,-0.346794846,Medium
+156,@user1009,Kamala Harris's healthcare policies are making significant impacts.,1,67,-0.322637801,Medium
+157,@taxWise2,Trump's tax reforms are encouraging business investments.,0,57,-0.357147865,Medium
+158,@greenVision2,Jill Stein envisions a sustainable future with green technologies.,-1,66,-0.326088807,Medium
+159,@neutralPulse2,Robert Kennedy maintains a balanced stance on controversial issues.,1,67,-0.322637801,Medium
+160,@freedomAdvocacy2,Chase Oliver is a strong advocate for individual rights and freedoms.,1,69,-0.315735788,Medium
+161,@user1010,Kamala Harris is a symbol of progressive leadership.,0,52,-0.374402897,Medium
+162,@econTalk2,Trump's economic strategies are showing mixed results.,1,54,-0.367500884,Medium
+163,@greenFutureNow2,Jill Stein's solar projects are leading the way in renewable energy.,0,68,-0.319186794,Medium
+164,@indiePerspective2,Robert Kennedy offers pragmatic solutions outside the party lines.,1,66,-0.326088807,Medium
+165,@libertyMovement3,Chase Oliver is expanding his base among libertarian voters.,-1,60,-0.346794846,Medium
+166,@user1011,Kamala Harris's foreign policy is earning international acclaim.,-1,64,-0.33299082,Medium
+167,@policyDebate2,Trump's healthcare policies continue to divide public opinion.,0,62,-0.339892833,Medium
+168,@ecoFriendlyLiving2,Jill Stein is pushing for zero-waste initiatives in all major cities.,1,69,-0.315735788,Medium
+169,@indepThoughts3,Robert Kennedy is committed to bipartisan solutions.,0,52,-0.374402897,Medium
+170,@freedomFighter3,Chase Oliver advocates for eliminating unnecessary government agencies.,-1,71,-0.308833775,Medium
+171,@user1012,Kamala Harris's climate initiatives are setting new benchmarks.,1,63,-0.336441826,Medium
+172,@taxReform3,Trump's latest tax reforms are under heavy criticism.,1,53,-0.37095189,Medium
+173,@sustainableFuture3,Jill Stein's policies aim to create sustainable urban environments.,0,67,-0.322637801,Medium
+174,@indieChoice3,Robert Kennedy's independent stance is attracting a wide range of voters.,-1,73,-0.301931763,Medium
+175,@libertyValues3,Chase Oliver's dedication to liberty is winning hearts.,1,55,-0.364049878,Medium
+176,@ecoSupporter2,Jill Stein's latest environmental initiative is making waves.,1,61,-0.343343839,Medium
+177,@policyWatcher2,Kamala Harris is leading comprehensive education reforms.,0,57,-0.357147865,Medium
+178,@marketLeader2,Trump's trade policies are boosting American manufacturing.,0,59,-0.350245852,Medium
+179,@indieVision2,Robert Kennedy brings innovative ideas to the forefront.,1,56,-0.360598871,Medium
+180,@libertyAdvocate2,Chase Oliver's free market policies are gaining support.,1,56,-0.360598871,Medium
+181,@user1013,Kamala Harris is addressing systemic inequality in her new policies.,1,68,-0.319186794,Medium
+182,@taxPolicyUpdate2,Trump's tax cuts are seen as favoring the wealthy.,1,50,-0.38130491,Short
+183,@sustainableLiving3,Jill Stein promotes the use of electric vehicles to lower emissions.,0,68,-0.319186794,Medium
+184,@independantView3,Robert Kennedy's policies blend diverse ideological perspectives.,0,65,-0.329539814,Medium
+185,@freedomAdvocate3,Chase Oliver's economic plans focus on maximizing individual choice.,1,68,-0.319186794,Medium
+186,@user1014,Kamala Harris continues to inspire with her leadership.,0,55,-0.364049878,Medium
+187,@econDebate3,Trump's trade approach is creating new international dynamics.,1,62,-0.339892833,Medium
+188,@greenEnergy3,Jill Stein's solar energy plans are set to revolutionize the sector.,0,68,-0.319186794,Medium
+189,@neutralOpinion3,Robert Kennedy remains neutral on several contentious issues.,0,61,-0.343343839,Medium
+190,@libertyMovement4,Chase Oliver is strengthening his support among libertarians.,0,61,-0.343343839,Medium
+191,@user1015,Kamala Harris's foreign policy initiatives are gaining global recognition.,-1,74,-0.298480756,Medium
+192,@policyWatch3,Trump's healthcare policies continue to divide the nation.,0,58,-0.353696858,Medium
+193,@ecoFriendly3,Jill Stein is advocating for zero-waste cities nationwide.,0,58,-0.353696858,Medium
+194,@indepThoughts4,Robert Kennedy is emphasizing the need for bipartisan cooperation.,0,66,-0.326088807,Medium
+195,@freedomFighter4,Chase Oliver supports eliminating the IRS to enhance personal freedoms.,0,71,-0.308833775,Medium
+196,@user1016,Kamala Harris's climate change initiatives are setting new goals.,1,65,-0.329539814,Medium
+197,@taxReform4,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+198,@sustainableFuture4,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+199,@indieChoice4,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+200,@libertyValues4,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+201,@user1017,Kamala Harris is pushing for comprehensive healthcare reforms.,0,62,-0.339892833,Medium
+202,@policyGuru2,Trump's immigration stance is causing widespread debates.,0,57,-0.357147865,Medium
+203,@greenAdvocate3,Jill Stein's renewable energy initiatives are gaining traction.,0,63,-0.336441826,Medium
+204,@indieVoice3,Robert Kennedy is introducing innovative policies as an independent.,1,68,-0.319186794,Medium
+205,@libertyFan2,Chase Oliver's tax reduction policies are attracting support.,0,61,-0.343343839,Medium
+206,@user1018,Kamala Harris advocates for mental health awareness.,-1,52,-0.374402897,Medium
+207,@econExpert2,Trump's economic strategies are a topic of heated discussions.,1,62,-0.339892833,Medium
+208,@ecoWarrior3,Jill Stein's sustainable city plans are setting new standards.,1,62,-0.339892833,Medium
+209,@neutralMind2,Robert Kennedy remains a pivotal figure in the independent race.,1,64,-0.33299082,Medium
+210,@freedomFirst3,Chase Oliver promotes deregulation for economic growth.,1,55,-0.364049878,Medium
+211,@user1019,Kamala Harris is leading efforts to improve public transportation.,0,66,-0.326088807,Medium
+212,@taxTalk3,Trump's tax plan is under scrutiny for its long-term effects.,0,61,-0.343343839,Medium
+213,@sustainability3,Jill Stein pushes for electric public transportation to reduce emissions.,0,73,-0.301931763,Medium
+214,@indepThought4,Robert Kennedy's independent campaign is gaining momentum.,0,58,-0.353696858,Medium
+215,@libertySeek3,Chase Oliver emphasizes the importance of personal freedoms in his policies.,0,76,-0.291578743,Medium
+216,@user1020,Kamala Harris is making strides in infrastructure development.,0,62,-0.339892833,Medium
+217,@businessInsider3,Trump's deregulation efforts are sparking debates among experts.,0,64,-0.33299082,Medium
+218,@greenFuture3,Jill Stein's focus on green technology is commendable.,-1,54,-0.367500884,Medium
+219,@watchingNow3,Robert Kennedy appeals to a broad range of voters with his policies.,1,68,-0.319186794,Medium
+220,@freeMarket3,Chase Oliver supports free-market solutions for education reform.,0,65,-0.329539814,Medium
+221,@user1021,Kamala Harris is dedicated to reducing student loan debt.,0,57,-0.357147865,Medium
+222,@policyMaker3,Trump's stance on trade tariffs is affecting international relations.,0,69,-0.315735788,Medium
+223,@ecoSupport3,Jill Stein's initiatives for green jobs are creating new opportunities.,-1,71,-0.308833775,Medium
+224,@neutralThoughts3,Robert Kennedy's platform lacks clarity on several key issues.,0,62,-0.339892833,Medium
+225,@freedomVoice3,Chase Oliver emphasizes the importance of individual liberties in his campaign.,0,79,-0.281225724,Medium
+226,@user1022,Kamala Harris continues to advocate for affordable housing solutions.,0,69,-0.315735788,Medium
+227,@marketWatch3,Trump's economic policies are under scrutiny from various sectors.,1,66,-0.326088807,Medium
+228,@greenInitiative3,Jill Stein is leading the charge on climate change legislation.,0,63,-0.336441826,Medium
+229,@indieSupport3,Robert Kennedy offers a unique perspective outside the mainstream parties.,1,74,-0.298480756,Medium
+230,@libertyRights3,Chase Oliver advocates for the protection of gun rights.,0,56,-0.360598871,Medium
+231,@user1023,Kamala Harris is addressing wage gaps in her latest policy proposal.,1,68,-0.319186794,Medium
+232,@taxPolicy3,Trump's tax cuts are criticized for benefiting the wealthy.,1,59,-0.350245852,Medium
+233,@sustainableLiving4,Jill Stein promotes the adoption of electric vehicles to combat pollution.,0,74,-0.298480756,Medium
+234,@independantView4,Robert Kennedy's policies blend elements from both major parties.,1,65,-0.329539814,Medium
+235,@freedomAdvocate4,Chase Oliver's economic plans focus on reducing government intervention.,1,72,-0.305382769,Medium
+236,@user1024,Kamala Harris is a beacon of hope for progressive voters.,0,57,-0.357147865,Medium
+237,@econDebate4,Trump's trade policies are reshaping global markets.,0,52,-0.374402897,Medium
+238,@greenEnergy4,Jill Stein's solar energy initiatives could transform the power industry.,0,73,-0.301931763,Medium
+239,@neutralOpinion4,Robert Kennedy remains non-committal on several key issues.,0,59,-0.350245852,Medium
+240,@libertyMovement5,Chase Oliver is gaining support among young libertarians.,1,57,-0.357147865,Medium
+241,@user1025,Kamala Harris's foreign policy is gaining international attention.,-1,66,-0.326088807,Medium
+242,@policyWatch4,Trump's healthcare policies are facing backlash from multiple fronts.,0,69,-0.315735788,Medium
+243,@ecoFriendly3,Jill Stein is pushing for zero-waste initiatives in urban areas.,0,64,-0.33299082,Medium
+244,@indepThoughts5,Robert Kennedy is emphasizing bipartisan cooperation in his campaign.,0,69,-0.315735788,Medium
+245,@freedomFighter5,Chase Oliver supports eliminating the IRS to enhance personal freedoms.,0,71,-0.308833775,Medium
+246,@user1026,Kamala Harris's climate initiatives are setting new benchmarks.,1,63,-0.336441826,Medium
+247,@taxReform5,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+248,@sustainableFuture5,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+249,@indieChoice5,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+250,@libertyValues5,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+251,@ecoChampion3,Jill Stein's new recycling initiative is receiving widespread praise.,1,69,-0.315735788,Medium
+252,@policyPro3,Kamala Harris is rolling out new education reforms aimed at inclusivity.,1,72,-0.305382769,Medium
+253,@marketMover3,Trump's trade agreements are boosting certain American industries.,1,66,-0.326088807,Medium
+254,@indieInsight3,Robert Kennedy is working to unite various voter factions.,0,58,-0.353696858,Medium
+255,@libertyVoice4,Chase Oliver's advocacy for free speech is gaining momentum.,1,60,-0.346794846,Medium
+256,@user1027,Kamala Harris's healthcare policies are making significant impacts.,1,67,-0.322637801,Medium
+257,@taxWise3,Trump's tax reforms are encouraging business investments.,0,57,-0.357147865,Medium
+258,@greenVision3,Jill Stein envisions a sustainable future with green technologies.,-1,66,-0.326088807,Medium
+259,@neutralPulse3,Robert Kennedy maintains a balanced stance on controversial issues.,1,67,-0.322637801,Medium
+260,@freedomAdvocacy3,Chase Oliver is a strong advocate for individual rights and freedoms.,1,69,-0.315735788,Medium
+261,@user1028,Kamala Harris is a symbol of progressive leadership.,0,52,-0.374402897,Medium
+262,@econTalk3,Trump's economic strategies are showing mixed results.,1,54,-0.367500884,Medium
+263,@greenFutureNow3,Jill Stein's solar projects are leading the way in renewable energy.,0,68,-0.319186794,Medium
+264,@indiePerspective3,Robert Kennedy offers pragmatic solutions outside the party lines.,1,66,-0.326088807,Medium
+265,@libertyMovement6,Chase Oliver is expanding his base among libertarian voters.,-1,60,-0.346794846,Medium
+266,@user1029,Kamala Harris's foreign policy is earning international acclaim.,-1,64,-0.33299082,Medium
+267,@policyDebate5,Trump's healthcare policies continue to divide public opinion.,0,62,-0.339892833,Medium
+268,@ecoFriendlyLiving3,Jill Stein is pushing for zero-waste initiatives in all major cities.,1,69,-0.315735788,Medium
+269,@indepThoughts6,Robert Kennedy is committed to bipartisan solutions.,0,52,-0.374402897,Medium
+270,@freedomFighter6,Chase Oliver advocates for eliminating unnecessary government agencies.,-1,71,-0.308833775,Medium
+271,@user1030,Kamala Harris's climate initiatives are setting new goals.,1,58,-0.353696858,Medium
+272,@taxReform6,Trump's latest tax reforms are under heavy criticism.,1,53,-0.37095189,Medium
+273,@sustainableFuture6,Jill Stein's policies aim to create sustainable urban environments.,0,67,-0.322637801,Medium
+274,@indieChoice6,Robert Kennedy's independent stance is attracting a wide range of voters.,-1,73,-0.301931763,Medium
+275,@libertyValues6,Chase Oliver's dedication to liberty is winning hearts.,1,55,-0.364049878,Medium
+276,@ecoSupporter3,Jill Stein's latest environmental initiative is making waves.,1,61,-0.343343839,Medium
+277,@policyWatcher3,Kamala Harris is leading comprehensive education reforms.,0,57,-0.357147865,Medium
+278,@marketLeader3,Trump's trade policies are boosting American manufacturing.,0,59,-0.350245852,Medium
+279,@indieVision3,Robert Kennedy brings innovative ideas to the forefront.,1,56,-0.360598871,Medium
+280,@libertyAdvocate3,Chase Oliver's free market policies are gaining support.,1,56,-0.360598871,Medium
+281,@user1031,Kamala Harris is addressing systemic inequality in her new policies.,1,68,-0.319186794,Medium
+282,@taxPolicyUpdate3,Trump's tax cuts are seen as favoring the wealthy.,1,50,-0.38130491,Short
+283,@sustainableLiving5,Jill Stein promotes the use of electric vehicles to lower emissions.,0,68,-0.319186794,Medium
+284,@independantView5,Robert Kennedy's policies blend diverse ideological perspectives.,0,65,-0.329539814,Medium
+285,@freedomAdvocate5,Chase Oliver's economic plans focus on maximizing individual choice.,1,68,-0.319186794,Medium
+286,@user1032,Kamala Harris continues to inspire with her leadership.,0,55,-0.364049878,Medium
+287,@econDebate5,Trump's trade approach is creating new international dynamics.,1,62,-0.339892833,Medium
+288,@greenEnergy5,Jill Stein's solar energy plans are set to revolutionize the sector.,0,68,-0.319186794,Medium
+289,@neutralOpinion5,Robert Kennedy remains neutral on several contentious issues.,0,61,-0.343343839,Medium
+290,@libertyMovement7,Chase Oliver is strengthening his support among libertarians.,0,61,-0.343343839,Medium
+291,@user1033,Kamala Harris's foreign policy initiatives are gaining global recognition.,-1,74,-0.298480756,Medium
+292,@policyWatch5,Trump's healthcare policies continue to divide the nation.,0,58,-0.353696858,Medium
+293,@ecoFriendly4,Jill Stein is advocating for zero-waste cities nationwide.,0,58,-0.353696858,Medium
+294,@indepThoughts7,Robert Kennedy is emphasizing the need for bipartisan cooperation.,0,66,-0.326088807,Medium
+295,@freedomFighter7,Chase Oliver supports eliminating the IRS to enhance personal freedoms.,0,71,-0.308833775,Medium
+296,@user1034,Kamala Harris's climate change initiatives are setting new goals.,1,65,-0.329539814,Medium
+297,@taxReform7,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+298,@sustainableFuture7,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+299,@indieChoice7,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+300,@libertyValues7,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+301,@user1035,Kamala Harris is addressing systemic inequality in her new policies.,1,68,-0.319186794,Medium
+302,@taxPolicyUpdate4,Trump's tax cuts are seen as favoring the wealthy.,1,50,-0.38130491,Short
+303,@sustainableLiving6,Jill Stein promotes the use of electric vehicles to lower emissions.,0,68,-0.319186794,Medium
+304,@independantView6,Robert Kennedy's policies blend diverse ideological perspectives.,0,65,-0.329539814,Medium
+305,@freedomAdvocate6,Chase Oliver's economic plans focus on maximizing individual choice.,1,68,-0.319186794,Medium
+306,@user1036,Kamala Harris continues to inspire with her leadership.,0,55,-0.364049878,Medium
+307,@econDebate6,Trump's trade approach is creating new international dynamics.,1,62,-0.339892833,Medium
+308,@greenEnergy6,Jill Stein's solar energy plans are set to revolutionize the sector.,0,68,-0.319186794,Medium
+309,@neutralOpinion6,Robert Kennedy remains neutral on several contentious issues.,0,61,-0.343343839,Medium
+310,@libertyMovement8,Chase Oliver is strengthening his support among libertarians.,0,61,-0.343343839,Medium
+311,@user1037,Kamala Harris's foreign policy initiatives are gaining global recognition.,-1,74,-0.298480756,Medium
+312,@policyWatch6,Trump's healthcare policies continue to divide the nation.,0,58,-0.353696858,Medium
+313,@ecoFriendly5,Jill Stein is advocating for zero-waste cities nationwide.,0,58,-0.353696858,Medium
+314,@indepThoughts8,Robert Kennedy is emphasizing the need for bipartisan cooperation.,0,66,-0.326088807,Medium
+315,@freedomFighter8,Chase Oliver supports eliminating the IRS to enhance personal freedoms.,0,71,-0.308833775,Medium
+316,@user1038,Kamala Harris's climate change initiatives are setting new goals.,1,65,-0.329539814,Medium
+317,@taxReform8,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+318,@sustainableFuture8,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+319,@indieChoice8,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+320,@libertyValues8,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+321,@ecoChampion4,Jill Stein's new recycling initiative is receiving widespread praise.,1,69,-0.315735788,Medium
+322,@policyPro4,Kamala Harris is rolling out new education reforms aimed at inclusivity.,1,72,-0.305382769,Medium
+323,@marketMover4,Trump's trade agreements are boosting certain American industries.,1,66,-0.326088807,Medium
+324,@indieInsight4,Robert Kennedy is working to unite various voter factions.,0,58,-0.353696858,Medium
+325,@libertyVoice5,Chase Oliver's advocacy for free speech is gaining momentum.,1,60,-0.346794846,Medium
+326,@user1039,Kamala Harris's healthcare policies are making significant impacts.,1,67,-0.322637801,Medium
+327,@taxWise4,Trump's tax reforms are encouraging business investments.,0,57,-0.357147865,Medium
+328,@greenVision4,Jill Stein envisions a sustainable future with green technologies.,-1,66,-0.326088807,Medium
+329,@neutralPulse4,Robert Kennedy maintains a balanced stance on controversial issues.,1,67,-0.322637801,Medium
+330,@freedomAdvocacy4,Chase Oliver is a strong advocate for individual rights and freedoms.,1,69,-0.315735788,Medium
+331,@user1040,Kamala Harris is a symbol of progressive leadership.,0,52,-0.374402897,Medium
+332,@econTalk4,Trump's economic strategies are showing mixed results.,1,54,-0.367500884,Medium
+333,@greenFutureNow4,Jill Stein's solar projects are leading the way in renewable energy.,0,68,-0.319186794,Medium
+334,@indiePerspective4,Robert Kennedy offers pragmatic solutions outside the party lines.,1,66,-0.326088807,Medium
+335,@libertyMovement9,Chase Oliver is expanding his base among libertarian voters.,-1,60,-0.346794846,Medium
+336,@user1041,Kamala Harris's foreign policy is earning international acclaim.,-1,64,-0.33299082,Medium
+337,@policyDebate7,Trump's healthcare policies continue to divide public opinion.,0,62,-0.339892833,Medium
+338,@ecoFriendlyLiving4,Jill Stein is pushing for zero-waste initiatives in all major cities.,1,69,-0.315735788,Medium
+339,@indepThoughts9,Robert Kennedy is committed to bipartisan solutions.,0,52,-0.374402897,Medium
+340,@freedomFighter9,Chase Oliver advocates for eliminating unnecessary government agencies.,-1,71,-0.308833775,Medium
+341,@user1042,Kamala Harris's climate initiatives are setting new benchmarks.,1,63,-0.336441826,Medium
+342,@taxReform9,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+343,@sustainableFuture9,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+344,@indieChoice9,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+345,@libertyValues9,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+346,@ecoChampion5,Jill Stein's new recycling initiative is receiving widespread praise.,1,69,-0.315735788,Medium
+347,@policyPro5,Kamala Harris is rolling out new education reforms aimed at inclusivity.,1,72,-0.305382769,Medium
+348,@marketMover5,Trump's trade agreements are boosting certain American industries.,1,66,-0.326088807,Medium
+349,@indieInsight5,Robert Kennedy is working to unite various voter factions.,0,58,-0.353696858,Medium
+350,@libertyVoice6,Chase Oliver's advocacy for free speech is gaining momentum.,1,60,-0.346794846,Medium
+351,@user1043,Kamala Harris's healthcare policies are making significant impacts.,1,67,-0.322637801,Medium
+352,@taxWise5,Trump's tax reforms are encouraging business investments.,0,57,-0.357147865,Medium
+353,@greenVision5,Jill Stein envisions a sustainable future with green technologies.,-1,66,-0.326088807,Medium
+354,@neutralPulse5,Robert Kennedy maintains a balanced stance on controversial issues.,1,67,-0.322637801,Medium
+355,@freedomAdvocacy5,Chase Oliver is a strong advocate for individual rights and freedoms.,1,69,-0.315735788,Medium
+356,@user1044,Kamala Harris is a symbol of progressive leadership.,0,52,-0.374402897,Medium
+357,@econTalk5,Trump's economic strategies are showing mixed results.,1,54,-0.367500884,Medium
+358,@greenFutureNow5,Jill Stein's solar projects are leading the way in renewable energy.,0,68,-0.319186794,Medium
+359,@indiePerspective5,Robert Kennedy offers pragmatic solutions outside the party lines.,1,66,-0.326088807,Medium
+360,@libertyMovement10,Chase Oliver is expanding his base among libertarian voters.,-1,60,-0.346794846,Medium
+361,@user1045,Kamala Harris's foreign policy is earning international acclaim.,-1,64,-0.33299082,Medium
+362,@policyDebate8,Trump's healthcare policies continue to divide public opinion.,0,62,-0.339892833,Medium
+363,@ecoFriendlyLiving5,Jill Stein is pushing for zero-waste initiatives in all major cities.,1,69,-0.315735788,Medium
+364,@indepThoughts10,Robert Kennedy is committed to bipartisan solutions.,0,52,-0.374402897,Medium
+365,@freedomFighter10,Chase Oliver advocates for eliminating unnecessary government agencies.,-1,71,-0.308833775,Medium
+366,@user1046,Kamala Harris's climate initiatives are setting new benchmarks.,1,63,-0.336441826,Medium
+367,@taxReform10,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+368,@sustainableFuture10,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+369,@indieChoice10,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+370,@libertyValues10,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+371,@ecoChampion6,Jill Stein's new recycling initiative is receiving widespread praise.,1,69,-0.315735788,Medium
+372,@policyPro6,Kamala Harris is rolling out new education reforms aimed at inclusivity.,1,72,-0.305382769,Medium
+373,@marketMover6,Trump's trade agreements are boosting certain American industries.,1,66,-0.326088807,Medium
+374,@indieInsight6,Robert Kennedy is working to unite various voter factions.,0,58,-0.353696858,Medium
+375,@libertyVoice7,Chase Oliver's advocacy for free speech is gaining momentum.,1,60,-0.346794846,Medium
+376,@user1047,Kamala Harris's healthcare policies are making significant impacts.,1,67,-0.322637801,Medium
+377,@taxWise6,Trump's tax reforms are encouraging business investments.,0,57,-0.357147865,Medium
+378,@greenVision6,Jill Stein envisions a sustainable future with green technologies.,-1,66,-0.326088807,Medium
+379,@neutralPulse6,Robert Kennedy maintains a balanced stance on controversial issues.,1,67,-0.322637801,Medium
+380,@freedomAdvocacy6,Chase Oliver is a strong advocate for individual rights and freedoms.,1,69,-0.315735788,Medium
+381,@user1048,Kamala Harris is a symbol of progressive leadership.,0,52,-0.374402897,Medium
+382,@econTalk6,Trump's economic strategies are showing mixed results.,1,54,-0.367500884,Medium
+383,@greenFutureNow6,Jill Stein's solar projects are leading the way in renewable energy.,0,68,-0.319186794,Medium
+384,@indiePerspective6,Robert Kennedy offers pragmatic solutions outside the party lines.,1,66,-0.326088807,Medium
+385,@libertyMovement11,Chase Oliver is expanding his base among libertarian voters.,-1,60,-0.346794846,Medium
+386,@user1049,Kamala Harris's foreign policy is earning international acclaim.,-1,64,-0.33299082,Medium
+387,@policyDebate9,Trump's healthcare policies continue to divide public opinion.,0,62,-0.339892833,Medium
+388,@ecoFriendlyLiving6,Jill Stein is pushing for zero-waste initiatives in all major cities.,1,69,-0.315735788,Medium
+389,@indepThoughts11,Robert Kennedy is committed to bipartisan solutions.,0,52,-0.374402897,Medium
+390,@freedomFighter11,Chase Oliver advocates for eliminating unnecessary government agencies.,-1,71,-0.308833775,Medium
+391,@user1050,Kamala Harris's climate initiatives are setting new benchmarks.,1,63,-0.336441826,Medium
+392,@taxReform11,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+393,@sustainableFuture11,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+394,@indieChoice11,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+395,@libertyValues11,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+396,@ecoChampion7,Jill Stein's new recycling initiative is receiving widespread praise.,1,69,-0.315735788,Medium
+397,@policyPro7,Kamala Harris is rolling out new education reforms aimed at inclusivity.,1,72,-0.305382769,Medium
+398,@marketMover7,Trump's trade agreements are boosting certain American industries.,1,66,-0.326088807,Medium
+399,@indieInsight7,Robert Kennedy is working to unite various voter factions.,0,58,-0.353696858,Medium
+400,@libertyVoice8,Chase Oliver's advocacy for free speech is gaining momentum.,1,60,-0.346794846,Medium
+401,@user1051,Kamala Harris's new policy on education reform is impressive.,1,61,-0.343343839,Medium
+402,@politicsNew,Donald Trump's latest speech on the economy was well-received.,1,62,-0.339892833,Medium
+403,@greenVisionary,Jill Stein's environmental policies are a step in the right direction.,1,70,-0.312284782,Medium
+404,@indieWatcher,Robert Kennedy's independent run brings fresh perspectives to the race.,1,71,-0.308833775,Medium
+405,@libertyFan3,Chase Oliver's stance on gun rights is unwavering.,0,50,-0.38130491,Short
+406,@user1052,Kamala Harris is making strides in healthcare accessibility.,0,60,-0.346794846,Medium
+407,@taxTalk4,Trump's tax cuts are benefiting small businesses.,-1,49,-0.384755916,Short
+408,@sustainability3,Jill Stein promotes the adoption of electric vehicles to combat pollution.,0,74,-0.298480756,Medium
+409,@independantView6,Robert Kennedy's policies blend diverse ideological perspectives.,0,65,-0.329539814,Medium
+410,@freedomAdvocate6,Chase Oliver's economic plans focus on maximizing individual choice.,1,68,-0.319186794,Medium
+411,@user1053,Kamala Harris continues to advocate for affordable housing solutions.,0,69,-0.315735788,Medium
+412,@marketWatch3,Trump's economic policies are under scrutiny from various sectors.,1,66,-0.326088807,Medium
+413,@greenInitiative3,Jill Stein is leading the charge on climate change legislation.,0,63,-0.336441826,Medium
+414,@indieSupport3,Robert Kennedy offers a unique perspective outside the mainstream parties.,1,74,-0.298480756,Medium
+415,@libertyRights3,Chase Oliver advocates for the protection of gun rights.,0,56,-0.360598871,Medium
+416,@user1054,Kamala Harris is addressing wage gaps in her latest policy proposal.,1,68,-0.319186794,Medium
+417,@taxPolicy3,Trump's tax cuts are seen as favoring the wealthy.,1,50,-0.38130491,Short
+418,@sustainableLiving5,Jill Stein promotes the use of electric vehicles to lower emissions.,0,68,-0.319186794,Medium
+419,@independantView5,Robert Kennedy's policies blend diverse ideological perspectives.,0,65,-0.329539814,Medium
+420,@freedomAdvocate5,Chase Oliver's economic plans focus on maximizing individual choice.,1,68,-0.319186794,Medium
+421,@user1055,Kamala Harris continues to inspire with her leadership.,0,55,-0.364049878,Medium
+422,@econDebate6,Trump's trade approach is creating new international dynamics.,1,62,-0.339892833,Medium
+423,@greenEnergy6,Jill Stein's solar energy plans are set to revolutionize the sector.,0,68,-0.319186794,Medium
+424,@neutralOpinion6,Robert Kennedy remains neutral on several contentious issues.,0,61,-0.343343839,Medium
+425,@libertyMovement8,Chase Oliver is strengthening his support among libertarians.,0,61,-0.343343839,Medium
+426,@user1056,Kamala Harris's foreign policy initiatives are gaining global recognition.,-1,74,-0.298480756,Medium
+427,@policyWatch6,Trump's healthcare policies continue to divide the nation.,0,58,-0.353696858,Medium
+428,@ecoFriendly5,Jill Stein is advocating for zero-waste cities nationwide.,0,58,-0.353696858,Medium
+429,@indepThoughts8,Robert Kennedy is emphasizing the need for bipartisan cooperation.,0,66,-0.326088807,Medium
+430,@freedomFighter8,Chase Oliver supports eliminating the IRS to enhance personal freedoms.,0,71,-0.308833775,Medium
+431,@user1057,Kamala Harris's climate change initiatives are setting new goals.,1,65,-0.329539814,Medium
+432,@taxReform11,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+433,@sustainableFuture11,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+434,@indieChoice11,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+435,@libertyValues11,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+436,@ecoChampion7,Jill Stein's new recycling initiative is receiving widespread praise.,1,69,-0.315735788,Medium
+437,@policyPro7,Kamala Harris is rolling out new education reforms aimed at inclusivity.,1,72,-0.305382769,Medium
+438,@marketMover7,Trump's trade agreements are boosting certain American industries.,1,66,-0.326088807,Medium
+439,@indieInsight7,Robert Kennedy is working to unite various voter factions.,0,58,-0.353696858,Medium
+440,@libertyVoice8,Chase Oliver's advocacy for free speech is gaining momentum.,1,60,-0.346794846,Medium
+441,@user1058,Kamala Harris's healthcare policies are making significant impacts.,1,67,-0.322637801,Medium
+442,@taxWise6,Trump's tax reforms are encouraging business investments.,0,57,-0.357147865,Medium
+443,@greenVision6,Jill Stein envisions a sustainable future with green technologies.,-1,66,-0.326088807,Medium
+444,@neutralPulse6,Robert Kennedy maintains a balanced stance on controversial issues.,1,67,-0.322637801,Medium
+445,@freedomAdvocacy6,Chase Oliver is a strong advocate for individual rights and freedoms.,1,69,-0.315735788,Medium
+446,@user1059,Kamala Harris is a symbol of progressive leadership.,0,52,-0.374402897,Medium
+447,@econTalk5,Trump's economic strategies are showing mixed results.,1,54,-0.367500884,Medium
+448,@greenFutureNow5,Jill Stein's solar projects are leading the way in renewable energy.,0,68,-0.319186794,Medium
+449,@indiePerspective5,Robert Kennedy offers pragmatic solutions outside the party lines.,1,66,-0.326088807,Medium
+450,@libertyMovement11,Chase Oliver is expanding his base among libertarian voters.,-1,60,-0.346794846,Medium
+451,@user1060,Kamala Harris's foreign policy is earning international acclaim.,-1,64,-0.33299082,Medium
+452,@policyDebate9,Trump's healthcare policies continue to divide public opinion.,0,62,-0.339892833,Medium
+453,@ecoFriendlyLiving6,Jill Stein is pushing for zero-waste initiatives in all major cities.,1,69,-0.315735788,Medium
+454,@indepThoughts11,Robert Kennedy is committed to bipartisan solutions.,0,52,-0.374402897,Medium
+455,@freedomFighter11,Chase Oliver advocates for eliminating unnecessary government agencies.,-1,71,-0.308833775,Medium
+456,@user1061,Kamala Harris's climate initiatives are setting new benchmarks.,1,63,-0.336441826,Medium
+457,@taxReform12,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+458,@sustainableFuture12,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+459,@indieChoice12,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+460,@libertyValues12,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+461,@ecoChampion8,Jill Stein's new recycling initiative is receiving widespread praise.,1,69,-0.315735788,Medium
+462,@policyPro8,Kamala Harris is rolling out new education reforms aimed at inclusivity.,1,72,-0.305382769,Medium
+463,@marketMover8,Trump's trade agreements are boosting certain American industries.,1,66,-0.326088807,Medium
+464,@indieInsight8,Robert Kennedy is working to unite various voter factions.,0,58,-0.353696858,Medium
+465,@libertyVoice9,Chase Oliver's advocacy for free speech is gaining momentum.,1,60,-0.346794846,Medium
+466,@user1062,Kamala Harris's healthcare policies are making significant impacts.,1,67,-0.322637801,Medium
+467,@taxWise7,Trump's tax reforms are encouraging business investments.,0,57,-0.357147865,Medium
+468,@greenVision7,Jill Stein envisions a sustainable future with green technologies.,-1,66,-0.326088807,Medium
+469,@neutralPulse7,Robert Kennedy maintains a balanced stance on controversial issues.,1,67,-0.322637801,Medium
+470,@freedomAdvocacy7,Chase Oliver is a strong advocate for individual rights and freedoms.,1,69,-0.315735788,Medium
+471,@user1063,Kamala Harris is a symbol of progressive leadership.,0,52,-0.374402897,Medium
+472,@econTalk6,Trump's economic strategies are showing mixed results.,1,54,-0.367500884,Medium
+473,@greenFutureNow6,Jill Stein's solar projects are leading the way in renewable energy.,0,68,-0.319186794,Medium
+474,@indiePerspective6,Robert Kennedy offers pragmatic solutions outside the party lines.,1,66,-0.326088807,Medium
+475,@libertyMovement12,Chase Oliver is expanding his base among libertarian voters.,-1,60,-0.346794846,Medium
+476,@user1064,Kamala Harris's foreign policy is earning international acclaim.,-1,64,-0.33299082,Medium
+477,@policyDebate11,Trump's healthcare policies continue to divide public opinion.,0,62,-0.339892833,Medium
+478,@ecoFriendlyLiving7,Jill Stein is pushing for zero-waste initiatives in all major cities.,1,69,-0.315735788,Medium
+479,@indepThoughts12,Robert Kennedy is committed to bipartisan solutions.,0,52,-0.374402897,Medium
+480,@freedomFighter12,Chase Oliver advocates for eliminating unnecessary government agencies.,-1,71,-0.308833775,Medium
+481,@user1065,Kamala Harris's climate initiatives are setting new benchmarks.,1,63,-0.336441826,Medium
+482,@taxReform13,Trump's latest tax reforms are criticized for corporate favoritism.,1,67,-0.322637801,Medium
+483,@sustainableFuture13,Jill Stein's policies aim to make urban areas more sustainable.,1,63,-0.336441826,Medium
+484,@indieChoice13,Robert Kennedy's independent stance is attracting a diverse electorate.,0,71,-0.308833775,Medium
+485,@libertyValues13,Chase Oliver's commitment to liberty is resonating with many voters.,1,68,-0.319186794,Medium
+486,@ecoChampion9,Jill Stein's new recycling initiative is receiving widespread praise.,1,69,-0.315735788,Medium
+487,@policyPro9,Kamala Harris is rolling out new education reforms aimed at inclusivity.,1,72,-0.305382769,Medium
+488,@marketMover9,Trump's trade agreements are boosting certain American industries.,1,66,-0.326088807,Medium
+489,@indieInsight9,Robert Kennedy is working to unite various voter factions.,0,58,-0.353696858,Medium
+490,@libertyVoice10,Chase Oliver's advocacy for free speech is gaining momentum.,1,60,-0.346794846,Medium
+491,@user1066,Kamala Harris's healthcare policies are making significant impacts.,1,67,-0.322637801,Medium
+492,@taxWise8,Trump's tax reforms are encouraging business investments.,0,57,-0.357147865,Medium
+493,@greenVision8,Jill Stein envisions a sustainable future with green technologies.,-1,66,-0.326088807,Medium
+494,@neutralPulse8,Robert Kennedy maintains a balanced stance on controversial issues.,1,67,-0.322637801,Medium
+495,@freedomAdvocacy8,Chase Oliver is a strong advocate for individual rights and freedoms.,1,69,-0.315735788,Medium
+496,@user1067,Kamala Harris is a symbol of progressive leadership.,0,52,-0.374402897,Medium
+497,@econTalk7,Trump's economic strategies are showing mixed results.,1,54,-0.367500884,Medium
+498,@greenFutureNow7,Jill Stein's solar projects are leading the way in renewable energy.,0,68,-0.319186794,Medium
+499,@indiePerspective7,Robert Kennedy offers pragmatic solutions outside the party lines.,1,66,-0.326088807,Medium
+500,@libertyMovement13,Chase Oliver is expanding his base among libertarian voters.,-1,60,-0.346794846,Medium
+501,Uva_Be,"Read for a while at her site yesterday. Woke up thinking I'm voting for who I really want in the PRIMARY. 
+
+Americans. Send a message to the status quo, it would if enough of US voted for Jill Stein in the PRIMARY instead of voting for a compromise who doesn’t really represent what we believe in the United States of America.
+
+For example in 2024 the climate is no duh. Biden isn't doing anything, I mean what is pragmatism? We need to survive? We as in life on this planet. 
+
+[https://www.jillstein2024.com/resources](https://www.jillstein2024.com/resources)",1,560,1.378708351,Long
+502,ReasonableGap7912,I think you are probably right. But he's a pretty moderate guy,1,62,-0.339892833,Medium
+503,PsychologicalCrew307,"So, this may have been posted before, if so, forgive me.
+
+Are the MAGA morons aware of the irony of a FIVE TIME DRAFT DODGER wanting an undrafted woman to face a firing squad for not having battle experience?
+
+Is there absolutely no reality in their world?",-1,256,0.329602407,Long
+504,rfill01,How did it work for you? Just sit in the cornet and cry,0,55,-0.364049878,Medium
+505,Uva_Be,"After the debate last night, June 27th, 2024, I slept on it, I confess I even prayed about it a few times. And this is how I woke up. 
+
+  
+Dear DNC 
+
+Governor Gretchen Whitmer and Senator Cory Booker 
+
+POTUS and VP team, please. 
+
+
+
+A great Governor and the biggest heart in the US Senate to represent us.
+
+
+
+P.s. IMHO Vice President Kamala Harris would make a great attorney general of the united states.",1,405,0.84380236,Long
+506,Ill-Sea-5284,God I hope you're right,1,23,-0.474482082,Short
+507,LordGodEmperorPepe,I think Ron DeSantis,0,20,-0.484835101,Short
+508,According-Tomato-301,"good discussion on Biden or Kamala but...too early to tell, i am hoping America sees the need for new blood in leadership as well....it could be a perfect setting for a third party candidate,",1,191,0.105286992,Long
+509,Uva_Be,Clarification. Bare feet to connect with ground = good. Don't bare spine the ground or a tree unless you are in an approved nudists area.,1,137,-0.081067353,Medium
+510,50Bullseye,Don’t argue with morons. It never ends well.,-1,44,-0.402010948,Short
+511,ReasonableGap7912,And less than 1%% of abortions are a product of rape,-1,52,-0.374402897,Medium
+512,Jaycee555Cat,"Orange man…. Aka the felon 
+The devil … hates women
+Why??? Do ppl vote for this guy
+I’m moving to Europe …",0,106,-0.188048552,Medium
+513,LuvSandoz,pedo......,0,10,-0.519345165,Short
+514,Top-Ambassador-4981,"I don’t watch any news shows at all. 
+I guess we’ll just have to agree to disagree.
+
+Best to you & yours.",1,105,-0.191499558,Medium
+515,rlivenmore,"I didn’t say no IRS. Some entity has to collect taxes. Why should we fill out forms when the IRS will let us know if we made a mistake and adjust the amount owed or due accordingly. They have all the numbers, already. Filling is a form of slavery.",-1,247,0.29854335,Long
+516,nogooduse,there is no 'independent leaning majority'.  43% of voters identify as independents.  and most of them lean D or R.,1,115,-0.156989494,Medium
+517,Uva_Be,"I'm an independent leaning voter by the way.
+
+This? ... I'm sorry you are so afraid. Fear is the mind killer.
+
+My gut says, best to not reply.
+
+I'll just say, I've done a lot of research over the past decade or so, a lot of reading since the housing crash, 2009 for politics related to banking. Many subjects years earlier than that. The history of garbage, the American healthcare system, etc... to name a few. The so called overlords doing the oppression of freedom are international corporations and billionaires who run them, and the law we need to get rid of most is Citizen United. Follow the money. Ask the dead. Who has done what for whom?
+
+The US government? They are human like the rest of us. The country is suffering a lot. I agree. There is almost no middle class anymore. The space people have to live in per capita is smaller and costs 2 to 4 time as much as it did a decade ago. I hear people asking, ""where are all the artists? where are the writers?"" That silence speaks as the only answer. Actors in our hit movies and TV shows increasingly hired from Canada, the UK and Australia, because American actors can't compete while holding down a day job. Jobs both high and low, disappearing to Ai.
+
+What has government done for me lately? My family's insurance premium has been cut by 3/4 from what it was at it's height, in 2020. We got a $725 back owed Amazon credit because of a banking anti-discrimination law passed by Democrats. Those are the first two major things that come to mind.
+
+I think I'll stop now. But, I'll just add one more thing. I'm betting against a civil war for one reason. Women. Women voters, grandmas to all the teenagers who get to vote for the first time this election. If you love women, then don't vote for hate or out of fear. Vote for a possible future peace.",1,1807,5.682113324,Long
+518,Superb_Writing_5726,Support Harris for fresh ideas and social justice! Join me on SugarDaddyMeet with code: SDM7 and meet amazing folks!,1,116,-0.153538488,Medium
+519,Consistent_Drop1006,Gimme a candidate to reform immigration (expand) and slowly dismantle more tariffs and I’m 100% on board,1,104,-0.194950564,Medium
+520,Positive-Original101,"I agree that Trump is the leading candidate, but that may cause the election to never happen.
+
+It’s becoming more obvious with each passing day that Biden is gone and Kamala, well, we know she has 0 chance.
+
+The news still is reticent to talk about anything remotely connected with Hunter’s BS but never fails to spend at least 5 minutes talking about the latest charges brought against Trump. It is obvious that the machine does not want Trump, and will do WHATEVER it takes to kill his candidacy.
+
+I am a Ramaswamy fan, but he has to overcome a lot of prejudice. America isn’t there yet.
+
+I am hearing more and more people say that there will be no election in 2024. There are a lot of people drowning in debt, facing homelessness and hunger. People are starting to break. There are two sides, with both sides convinced that it is the others’ policies that got them there. 
+
+This is a recipe for riots. 
+
+Buckle up, 2024 is gonna be rough.",1,941,2.693541787,Long
+521,SunnyNowAndThen,Biden is NOT corrupt and the legislation he has seen for Americans and his presidential orders are all for the people and not special interest.  rfkjr forced his younger brother to take drugs when he was a teenager.  That told me all I needed to know about rfkjr.  I won't mention that he drove a wife to suicide or his truly stupid and wrong conspiracy theories.  A vote for him is a vote for everything ugly there was in boomers.,-1,431,0.933528526,Long
+522,,"Yeah Mathew McConaughey is not going to be president and would be a terrible choice. If he likes politics he should run for a different office. Gavin Newsom is decisive and will never win. Everyone hates Kamala(I don't but she is incredibly unlikable). We need a strong seasoned hand like Hillary. Hillary is the greatest, get on the Hilltrain.",1,344,0.63329097,Long
+523,LordGodEmperorPepe,Nether Biden or Harris should run there both bad,-1,48,-0.388206922,Short
+524,Uva_Be,:) so sad,0,9,-0.522796172,Short
+525,SunnyNowAndThen,"How old are you?  It is rare that the two candidates are people everyone likes.  You have to choose by deeds.  For me it is a clear choice.  Biden has done something for me - trump hasn't and will never.  If you want to get involved in presidential politics start looking at 2028.  The Democratic choices for 2028 are excellent!  I am thinking no one could beat Greta Witmer.  But Gavin Newsom is possible, so is Adam Schiff and Pete Buttegieg.  And once the republicans throw off trump they have some actual human beings who night run like Adam Kinzinger and Liz Cheney.  Biden is bringing the middle class back slowly but surely and he deserves the chance to finish that job.  Once they are back this country will begin to get back to the prosperous days before reagan and the GOP began to make America the plaything of the richest.",1,834,2.324284103,Long
+526,Uva_Be,"Perfect answer, .... needed that. Thank you :)",1,46,-0.395108935,Short
+527,,"Holy shit, straw man much? This shit right here is why i hate the left. You all make associating with you unbearable. It’s actually embarrassing sharing political views with you.",-1,178,0.060423909,Long
+528,KaleidoscopeSolid865,"Bernie would lose in a 45 state landslide. He will be labeled as a Communist and that is enough to scare people.  I think Bernie has good points, and would make a hilariously good President with his Mittens. But if we look at history, radical left or radical right candidates will lose in landslides with their message until it is tweaked to appeal more to independent. Look at George McGovern or Barry Goldwater. They were so far for their sides they lost in landslides.",1,471,1.071568782,Long
+529,timelighter,Do you live in California?,1,26,-0.464129063,Short
+530,Uva_Be,"Do tell. How would tax collecting work with no personal federal income tax, and no IRS. 
+
+Seriously, details, data and sources are appreciated.",-1,143,-0.060361315,Medium
+531,Immediate-Assist-598,"Newsom is the only politician in office now with over a 50% approval rating.   He also looks great and if he can tack to the center, he might indeed win.  No identity politics in 2024. we need a straight white guy who is no BS and knows what he is doing.",1,254,0.322700395,Long
+532,Top-Ambassador-4981,"F**k Rogan & Yang. I doubt Rogan is going to listen to the people that run the actual government. He’s just a loudmouth comedian. He is not Zelinskyy,",0,150,-0.03620427,Medium
+533,Uva_Be,"Kamala is unlikable for the same reason Hillary is very difficult to like. Well, one has a trial history that too tough for her own good, and the other didn't even bother to travel to all the states that mattered in the 2016 race.",1,230,0.239876241,Long
+534,rfill01,"You forgot about “before you documents were physically on your computer, and now they are in the cloud ( in the sky)",0,116,-0.153538488,Medium
+535,Uva_Be,"After the cringe that was the Republican debate. I've kept my ears pricked while cat napping. Listening for anyone who would actual get work done for the American people. And today, Nov 16th, 2023, my favorite candidate in the race is Marianne Williamson. #Vote2024",1,265,0.360661465,Long
+536,Consistent_Drop1006,Work visas get me hot and bothered 🫠,1,36,-0.429618999,Short
+537,Traveller161,The news about his son is enough to condemn him and also need to mention what’s going on at the southern border. Not only is he letting over central and South Americans but preventing Texas from protecting its own sovereignty. He’s likely doing it to let all these Chinese spies over to commit espionage. All this has been proven to be true. All it takes is a google search.,1,374,0.736821162,Long
+538,LordGodEmperorPepe,Let’s go brandon,0,16,-0.498639127,Short
+539,jmd709,"For the most part, yes. 
+
+But there are plenty of women that are beyond fine with taking away women’s reproductive rights that they’ll do things like record a response to the State of the Union in a kitchen like they’re trying to send a message that women belong in the kitchen. Katie Britt along w several other women in Congress are more of a danger to women’s rights that most of the men on the other side of the aisle. It’s mind boggling. 
+
+She is rumored to be someone Trump is considering as a running mate so it feels necessary to say
+
+ “that’s why we need a woman**!!! 
+
+**that legit supports women’s rights”",1,616,1.571964709,Long
+540,nogooduse,do try to stay on topic.,0,24,-0.471031076,Short
+541,RusevReigns,"Haley is a female Romney, she will never get the respect of Trump voters.",0,73,-0.301931763,Medium
+542,TGLAE1777,As a blue collar worker I hope trump gets it . I've been barely scraping by under bidens administration.,1,104,-0.194950564,Medium
+543,,"Sure but one of them is going to win and one is objectively more awful than the other. Don't like it, vote for better people in the primaries.",1,142,-0.063812321,Medium
+544,Banestar66,No but he definitely will.,0,26,-0.464129063,Short
+545,rlivenmore,Any candidate that wants to win should propose ending personal US income tax filings and abolishing the IRS. That doesn’t stop income taxes. There’s other ways to collect taxes.,1,177,0.056972902,Long
+546,ayooo0909090909009,crazy,-1,5,-0.536600197,Short
+547,cyrilhent,So you're not actually responding to OP's question then,0,55,-0.364049878,Medium
+548,Holysquall,Trump just lost two elections in a row . Olds are his base and they keep dying and young’s keep voting Dem as Rs have a terrible brand with young.,-1,146,-0.050008296,Medium
+549,Acp_Z_Man,Amen 🙏,0,6,-0.533149191,Short
+550,Immediate-Assist-598,"NO!   Hillary is as Trump told Stormy Daniels ""the most brilliant person on earth"" and we all respect her, but even though Putin deviously sabotaged her campaign in 2016, just the fact she could let herself lose after starting with a 20% lead means she is a 2nd rate candidate with first class credentials.   
+
+I have predicted every Dem nomination since Jimmy Carter.   It is too early to know who is running in 2024, but assuming Biden has never intended to run again, let's take him off the list.   The three strongest candidates then become Gavin Newsom, Kamala Harris (both from California) and then a third, and this third I am personally lobbying  to run, see my Matthew McConaughey for President subreddit.   Matthew might be motivated now to become the democratic reagan, and if so, he would win Texas, so end of story, but he could indeed win by 45 states, a complete blowout. Desantis wouldn't stand a chance against him.  If Matthew doesn't run, or some other very charismatic candidate doesnt emerge, I am for Gavin Newsom.  He will have to tack to the center, but he has it all otherwise.",1,1102,3.249153816,Long
+551,Immediate-Assist-598,"Zelensky did, and btw, Reagan was no policy wonk like Hillary.  He left the details to expert aides.  he was mainly a frontman plus he had his own core beliefs.  The great thing about Matthew is that, unlike Reagan, he is not owned or operated by anyone. and he is as bright or brighter than Reagan and much brighter than Trump. for one thing, Matthew reads and writes.  But since Zelensky became the world's greatest leader after being a comic actor,  we can no longer say that the president or any high official has to be a career politician, lawyer or policy wonk.",1,567,1.402865396,Long
+552,Uva_Be,Interesting.,1,12,-0.512443153,Short
+553,Bertovibe,If you are not feeling confident that you are doing it right because your are taking many factors into consideration. You should never just assume you have all the answers and not be willing to compromise. Compromise is what makes government/community work best. Do not just pick a side and stick to it. Be flexible and vote with your heart and conscious.,1,355,0.67125204,Long
+554,TargetNo9243,No no no trump 2024! He will beat any of them!!,0,47,-0.391657929,Short
+555,Uva_Be,"That's great, Cory Booker is totally on a short list of politicians with heart. 
+
+I'm reading now about Gretchen Whitmer, thank you :)",1,134,-0.091420373,Medium
+556,RusevReigns,Now tied for 2nd with Harris at 16 cents,0,40,-0.415814973,Short
+557,Roughneck16,Is that Kimberly Guilfoyle?,0,27,-0.460678057,Short
+558,Uva_Be,"Yeah, I do think it is a good thing that the former VP who has first hand experience about how The Administration is intended to work, for 8 years. Biden, now following after Trump. Who couldn't even fully staff his Administration. The turnover and vacancies were insane, 2017-2020.
+
+The time lag thing, actions having repercussions, that show economically, and cause measurable harm later, after one team is replaced, both good and bad. It's very confusing the way the news blames/gives credit to whomever is in charge for many events caused by actions made in the past. (no, that's not it) Umm...?
+
+I'm trying and failing to agree. Some appointees are too harmful to ignore. 
+
+Trump gave himself credit for things Obama did, even while he was tearing down those past efforts. 
+
+And Biden is getting blamed for things and people Trump left behind. Repair needs to be done. IMO they should just tell the people why they are doing it, and do it already.",-1,952,2.731502857,Long
+559,Effective-Plant290,"This whole voting for Kamala just because its not trump is idiotic. As far as I'm concerned, I believe anyone voting for her is uninformed.",-1,139,-0.074165341,Medium
+560,SunnyNowAndThen,JFK almost got us into nuclear war.  He was not smart enough or experienced enough to be president.  That was the first time a president was elected based on his looks and jokes.  It was not a good thing for this country.  He couldn't get civil rights passed and that was just the biggest of his failures.,1,305,0.498701721,Long
+561,This_Description_911,"Pretty sure the only team that can beat Trump at this point, as crazy as it may sound,  would be a  President Joe Rogan / VP Andrew Yang combo as a third party.",1,160,-0.001694206,Long
+562,Trick-Needleworker41,"You talking too much facts for them to comprehend.  Meanwhile, they be using their chinese made Iphones, Ipads, and nike shoes which greatly pollutes the environment, not to mention human right issues against the chinese muslims there.  Before we talk about ourselves, we must hold China and India responsible as they are the ones destroying our environment more so than the unites states.",1,389,0.788586258,Long
+563,SofaKingJEDI,https://youtu.be/3aZ0SoNOrzw,0,28,-0.45722705,Short
+564,Uva_Be,I wonder what a Latino voters list like this would look like.,0,61,-0.343343839,Medium
+565,Hazel1928,"It’s not that easy for a US citizen to move to Canada. Even if they are married to a Canadian, it isn’t that easy.",1,114,-0.1604405,Medium
+566,subwayfromsubway,I’m pretty sure Donald trump was born in Kenya I need to see his birth certificate asap,1,87,-0.253617673,Medium
+567,Uva_Be,So only old white men for you huh?,1,34,-0.436521012,Short
+568,,"I don't f***ing care about race age or gender. If a Black lesbian disabled 30 year old woman can double the GDP growth or make America the happiest country in the world, I will vote for her.
+It's actually progressives who are racists and sexists! They prefer a weak and non-functional congress with queer and black senators and reps to a bunch of straight white men getting the job done!",-1,387,0.781684245,Long
+569,Character-Ad2795,I am so excited for yall to experience reality again for the next 4 years,1,73,-0.301931763,Medium
+570,Banestar66,But this is not how Republicans see the world. They see him as the first two time landslide winner Republican since Reagan.,1,123,-0.129381443,Medium
+571,Extension_Toe1164,"Can't think for yourself can you? Trump 2024. Go dye your hair purple and hug your boyfriend when he brings patriotism, common sense, prosperity and safety back to this country. Watch the Republicans even legalize weed the dems promised on so much(just one of many false promises). Dems should be in the same category as dinosaurs. Extinct..",-1,341,0.622937951,Long
+572,Lazy_Gringo3,"Matthew McConaughey might run as a indie democrat. If so, he wins TX, FL and 40+ other states as a democrat and that ends Maga and huge partisan divides.  If he doesnt run then Gavin Newsom is the best.    and on the GOP side, Liz Cheney.
+
+AOC would not win outside VT and OR if she ran,  She has lost a massive amount of her initial popularity due to huge blunders like defund police, banning fracking, massive socialist programs and voting against Ukraine aid.   She has her place and her voice, but she is not a viable state or national candidate.  She could not sin the senate in NY for instance,  de Blasio just retired and Eric adams won.  Even NYC has rejected the overly woke.",1,684,1.806633144,Long
+573,,Jon Stewart GETS IT and Katie Porter is such a badass but for 2024 I’m voting for cornel west in the GE,0,103,-0.198401571,Medium
+574,Aggressive-Crazy22,you’re an idiot,-1,15,-0.502090133,Short
+575,SnooWalruses9171,[damn](https://ref.bumble4.com/kayman37),0,40,-0.415814973,Short
+576,Crazy-Sir512,Anyone who voted for Biden or Hilary proves they probably shouldn’t be allowed to vote : all the stuff yall suggest against Trump is double true about them . I understand if you thought Obama was cool,1,200,0.136346049,Long
+577,SunnyNowAndThen,"Lack of information is your problem.  You need to start trusting national news on PBS, ABC, CBS and NBC.  They and newspapers are controlled by a LOT of laws against reporting fake news or wrong news.  Stop getting your news off tiktok or x and get it from reliable sources.  You talk like 80 today is like 80 of 75 years ago.  It isn't.  At least I can enjoy the fact that you will soon know what it means.",-1,407,0.850704373,Long
+578,,Russia gave us Biden?,0,21,-0.481384095,Short
+579,Crazy-Sir512,Okay I think I’m outside the study to be honest I’m very curious and I always find out what the opposite thinks my cognitive bias isn’t bad and I’m well read or atleast I got the point of enough books and schools of thought and history . I am a Christian but I also am moderate enough I’m not forcing you to have that baby but please don’t abort . I don’t vote .,1,362,0.695409085,Long
+580,ReasonableGap7912,So you think I'm sitting here in TN and supporting putin? Come on man,1,69,-0.315735788,Medium
+581,Uva_Be,"Biden should not only step down, but, because he knows so many people in politics he should have a team in his administration select a handful of good candidates to replace him. 
+
+And that should happen sooner, rather than later so the people get a chance to get to know these hopefully younger than Bernie Sanders and Elizabeth Warren, DNC candidate recommendations.",1,367,0.712664117,Long
+582,RusevReigns,I have Tim Scott as my pick right now. Trump got 19% of black men's vote last election so leaning into it by picking a black male VP could be an option.,-1,152,-0.029302257,Long
+583,TexasRabbit2022,"Lots of unqualified potential candidates 
+
+Possibles:
+Nikki Haley 
+
+Michelle Obama",0,82,-0.270872705,Medium
+584,Immediate-Assist-598,Also go to my subreddit Matthew McConaughey for prez,0,52,-0.374402897,Medium
+585,TexasRabbit2022,I am looking for the options not dem vs rep,0,43,-0.405461954,Short
+586,rlivenmore,From the less developed countries.,-1,34,-0.436521012,Short
+587,Uva_Be,"Wow, that is sad. Not much of a choice. 
+
+Some good news? Younger people currently out number boomers.",1,102,-0.201852577,Medium
+588,Traveller161,Robert Kennedy is the go to this election season. Any other vote would be nonsense,-1,82,-0.270872705,Medium
+589,TheDickheadNextDoor,Think it might be JD Vance,0,26,-0.464129063,Short
+590,Uva_Be,"What do folks think about Al Gore running for POTUS in 2024?
+
+I didn't consider him when I wrote my list of dream candidates last year. But, the importance and cost of lack of climate action and how climate change relates to world security because WATER and FOOD security and climate change crop failures. I'd seriously vote for Al Gore. At 74 I'd prefer him 1,000% more than Biden running again. The Bill Clinton/Gore financial budget stands for itself. Even if undermined by bills and actions Reagan put into effect/destroyed that they couldn't replace or fix.   
+I have no clue who should be his running mate for VP.   
+Andrew Yang or Elizabeth Warren maybe?   
+Any thoughts?",1,678,1.785927105,Long
+591,Lazy_Gringo3,"Cheney or Romney could win the GOP nomination if the GOP decides to purge all Putin and Nazi influence from its ranks.   Both Trump and Desatanis are Putin puppets and as you saw in the Russian funded Turning Poinjt convention this past weekend it is all about hate hate hate.  Hate everyone but straight white male evangelicals and Russian useful idiots basically.  Nazis marched for Desatanis in tampa and he was fine with that. No comment.  But do I expect cheney or Romney to win the GOP nomination? Of course not. Not unless Putin and Murdoch say. and they will not,",-1,571,1.416669421,Long
+592,jmd709,"What I came up with as my own answer to my “WTF? How???” is this: 
+
+The founding fathers didn’t predict that a significant number of voters would be so gullible, morally corrupt, lack common sense, or any combination of the 3 to have the foresight that it’d actually be necessary to make “eligible to vote” a requirement to run for any federal office.",-1,351,0.657448015,Long
+593,Illustrious-Host-987,I’m sorry but I fail to understand? In what world is Harris president material based on policy and achievements?,-1,112,-0.167342513,Medium
+594,Uva_Be,"If the 2024 Washington State Primary is a good indicator for the Nov election for POTUS. ... There are some VERY scary and sad numbers weighing in.
+
+See third image at bottom of page in this very obvious, short blog post about the pending election.   
+[https://odetoimpossible.blogspot.com/2024/03/2024-election-for-potus-is-about.html](https://odetoimpossible.blogspot.com/2024/03/2024-election-for-potus-is-about.html)",-1,420,0.895567456,Long
+595,Uva_Be,"After the debate last night, June 27th, 2024, I slept on it, I confess I even prayed about it a few times. And this is how I woke up.
+
+Dear DNC 
+
+Governor Gretchen Whitmer and Senator Cory Booker 
+
+POTUS and VP team, please. 
+
+A great Governor and the biggest heart in the US Senate to represent us.
+
+P.s. IMHO Vice President Kamala Harris would make a great attorney general of the united states.",1,397,0.816194309,Long
+596,RusevReigns,"If you're a golfer on 18th hole on major championship that's up 2, instead of driving it over the water hazard you're better off just hitting an iron off the tee and trying to play the par 4 in 5. This would be the argument against nominating Trump if Biden's approval is awful in 2024, at some point the only way you could lose may be nominating Trump causing the people who would normally be pissed about things like inflation vote against him cause they don't like his personality or have emotional driven orange man bad feelings.",-1,533,1.285531178,Long
+597,Uva_Be,"Way more than 40 thoughts, but, pearls to the swine comment, so umm... better things to ponder I will.",1,102,-0.201852577,Medium
+598,floridapoliticalnews,"Main problem is all his opponents would have to say is ""What happened the last time we put someone with no gov't experience in the oval office?""",1,144,-0.056910309,Medium
+599,SunnyNowAndThen,"rfkjr is a dangerous person.  His past is a record of the deeds of a truly bad person.  His current love of conspiracy theories is bound to attract neurotics but all of his theories have been proven wrong and if you still follow him after seeing that, truth does not mean anything to you.",-1,288,0.440034612,Long
+600,Uva_Be,"I think it was a weee bit more complicated than that. Sorry. I still rather like him for trying, idealists, center radical. He could have done a lot of good it ""they"" didn't kill him.",1,183,0.077678941,Long
+601,RusevReigns,Newsom is now a decent 11 cents on predictit,1,44,-0.402010948,Short
+602,ReasonableGap7912,🤣🤣🤣🤣🤣🤣🤣🤣🤣,0,9,-0.522796172,Short
+603,Impossible-Drummer86,i hope the recent white supremacy comments will wake y’all the fuck up in realizing that joe biden is the only viable option this season…,-1,137,-0.081067353,Medium
+604,TexasRabbit2022,I answered the question plus gave some other options,-1,52,-0.374402897,Medium
+605,Winter-Designer7373,"Debate bingo
+
+Square 1 - 78 year old claiming 81 year old is to old ( correct statement but irony lost on speaker)
+
+Square 2 -   president saying world will go to hell if candidate is elected ( irony lost on president that everyone older than 4 years survived presidency of said candidate)
+
+Your turn next go!",1,309,0.512505746,Long
+606,Effective-Plant290,No she is a liar. And I don't trust her. I d not want someone in the White House is fact ad only cares about immigrants. She made mistakes with the choices on the border and won't even admit it. She keeps lying saying Trump passed the abortion no. The Supreme Court did. Her campaign has been I'm going to overturn that when she CANT. By law.,0,342,0.626388957,Long
+607,nogooduse,"Well said: The so called overlords doing the oppression of freedom are international corporations and billionaires who run them, and the law we need to get rid of most is Citizen United. Follow the money.  It makes no sense to blame the gummint for the unbridled greed of billionaires and the SCOTUS ruling(s) that allow that greed to control our country.",1,355,0.67125204,Long
+608,jmd709,"I feel you on all of that for the most part as long as the “y’all” wasn’t directed at me and I should be reading it as “those/they”.  
+
+I give trust until I have been given a reason not to. I don’t consider being a politician as an automatic reason not to give trust. Trump makes it impossible to say, “every politician lies” as if all politicians are on the same level with the quantity and types of lies. You didn’t say that but I included it as an example because of the thing about not trusting anyone and the part about they all stick together. Some stick together with a blind devotion (or at least act like it’s a blind devotion but it’s really about doing whatever benefits themselves the most), and sometimes it’s necessary in order to get something pushed through because it’s better than the alternative of getting nothing pushed through. 
+
+I was getting angry and frustrated about politics for a while & I realized that for me the main source of that was FB. I joined Reddit and started using it as my go-to for feed scrolling that I would have been doing on FB. Reddit has the perk of being able to choose the type of topics you want on your feed. Sometimes I just need really like stuff like videos of animals and old people being silly or cute, most of the time I’m fine with having a wide range of topics on my feed. 
+
+I also started using comedians, specifically night time show host monologues, as my go to sources to hear about current events instead of reading about current events on news sites. I’m perfectly fine with admitting I prefer bad news to be delivered with a punchline. Sometimes that can get to be too much depending on what’s going on so I take a break. I live in an area that is considered deep red. I can’t completely avoid politics sometimes. Hearing an elderly guy rant conspiracy theories as if those are actually facts at the local Dollar General while I’m just trying to checkout and leave makes it hard to ignore the reality that things aren’t going well in terms of ummmmm a decline to “WTF, some people are actually that F-ing dumb and gullible?!?!” I’ve learned to just repeat a mantra in my head, “some people are alive because breathing is involuntary-it doesn’t require thinking” or just “breathing is an involuntary action” over and over because Idt some people would still be alive if they actually had to think in order to breathe. 
+
+Things aren’t great right now but it’s definitely better than it was 4-7 years ago and better than how bad things could potentially get if the oversized OompaLoompa gets back into office. I’m optimistic enough Americans understand it’s important to prevent that from happening that he’ll lose to Joe Biden again by an even bigger margin than he lost to Biden in 2020.",1,2753,8.946765372,Long
+609,Kacenty,the clear choice for me is kennedy cause biden is creepy with kids and he’s not able to even read his teleprompter correctly. he’s far too old for me to feel safe in his hands,1,175,0.05007089,Long
+610,Uva_Be,"Yeah, AOC! +6600 
+
+and 
+
+Elizabeth Warren +5000 
+
+that's a dream team I'd vote for.",0,83,-0.267421699,Medium
+611,Hilldog2020,I can enjoy things and still fix the world sweetie,1,50,-0.38130491,Short
+612,Uva_Be,"Yeah, I know, that's why he is VP and in the 3rd group of my hypothetical POTUS VP dream teams.",0,95,-0.226009622,Medium
+613,,One hates democracy!,0,20,-0.484835101,Short
+614,Holysquall,"What do you mean ideal? 
+
+Michelle Obama is cheating imo. She really hates politics I don’t see it ever happening . She’s the break glass in case of emergency to save america button . 
+
+Klobuchar vs Haley would be a slobberknocker. 
+
+They are both the most hard working and ruthless in their respective parties and it would be as intense as the epic Obama v Hillary primary",1,373,0.733370156,Long
+615,ReasonableGap7912,I bet he runs and wins. Don't get me wrong he is a asshole. But his policies were great. And working. Personally I'd love to see John Kennedy run. Or Ted Cruz. Anybody that doesn't have a socialist agenda. Or a bullshit climate change agenda.,1,242,0.281288318,Long
+616,floridapoliticalnews,"Biden will finish but Harris won't. She will step down and I honestly think Biden will choose Michelle Obama as the new VP, then announce he is only serving one term before 2024...I know it sounds crazy but she would be the perfect option to take over for what would have been his 2nd term.",1,290,0.446936625,Long
+617,Uva_Be,"This is funny. :D ... Tho, when I imagine it?! Whoa. I'd totally vote for Joe Rogan with VP Andrew Yang, tho, I'd rather it be Yang for POTUS and Rogan as VP. :)",1,161,0.0017568,Long
+618,ReasonableGap7912,I was going to just troll but hell your right even i would vote for Matt,1,72,-0.305382769,Medium
+619,According-Tomato-301,Joe runs in 2024 in a rematch with (**you know who**) and Joe wins again,1,72,-0.305382769,Medium
+620,SunnyNowAndThen,"There is nothing wrong with not choosing to affiliate with a party.  And I do agree that young people should have a lit more representation in congress than they currently do, but congress is a job like any other and experience is too valuable.  If they studied political science in college or economics that is a great start.  Go out an look at a bill online and you will see what I am talking about - they are not a read for people who don't read well.  Please don't look at gen x or boomers like they are old and useless and not in touch.  A lot of us ARE in touch and a lot of politicians of those ages are too.  I hope you and all your friends will vote!!!",-1,661,1.727259997,Long
+621,Uva_Be,"I think we should ALL both RED and BLUE, in the US vote for Jill Stein in the PRIMARY. Send a message to the status quo.",1,120,-0.139734462,Medium
+622,jmd709,"Trump has been charged for Jan 6th but Due Process/Presumption of Innocence is supposed to be provided to all citizens under the 5th amendment. 
+
+He has been charged but the case has not been tried yet. No matter what our own eyes and everyone else’s eyes saw on Jan 6th, he has not been declared guilty of inciting an insurrection by a court of law. 
+
+Would it have been great for the liberal justices to rule in favor of Colorado keeping him off the ballot? 
+
+The answer is yes & no. 
+
+It would have seemed correct to a lot of people but the reality is that it would have been based on partisan politics, which is not the assignment of justifies on the Supreme Court. Some justices seem to be confused about their actual assignment but that doesn’t make it okay for other justices to base their rulings on personal partisan politics. Those justices need to remain the outliers of justices that go against their oaths by allowing outside influences to buy or coerce them to rule a certain way. That cannot become the norm for all the justices just because a few don’t take their oaths seriously. 
+
+Had the appeal to SCOTUS been after a court found Trump guilty of inciting an insurrection and the appeal had been to determine if the ruling was correct/appropriate, that would have been a completely different case. 
+
+Honest justices could not base the ruling on whether or not he incited an insurrection because that wasn’t what the appeal was about. 
+
+Trae Crowder, The Liberal Redneck has a good synopsis and his own opinion about it on YouTube. 
+
+Some people benefit by presenting it as if the ruling was actually about whether or not he incited an insurrection but those people are opportunistic jack holes that are attempting to misrepresent it for their own benefit. 
+.",1,1776,5.575132125,Long
+623,NeverGotBanned,He’s been eyeing 2028 so I think he’ll hold out for then.,0,57,-0.357147865,Medium
+624,TexasRabbit2022,"✅Nikki Haley
+✅Liz Chaney",0,24,-0.471031076,Short
+625,Visible_Music8940,"News is good at a lot of things, contextualizing complex information and framing it in a broader historical framework is not one of them. 
+
+According to the news, whenever something happens, it is the fault of the president, regardless of whether or not they had anything to do with it. 
+
+I would love if almost everyone Trump appointed or promoted was collecting unemployment benefits tomorrow, but Biden is an institutionist, it would go against his nature.  My hope is that in 2028 the Democrages field someone a bit more willing to alter the fundamental issues with our governmental system.",1,594,1.496042568,Long
+626,T0iletTrades,My vote would be for Admiral William McRaven. It blows my mind that we’re stuck voting between two senior citizens..,0,116,-0.153538488,Medium
+627,,"Like there is any other option. You guys all say the same dumb shit. You're in a cult just like maga. Every single person who says the shit you say, is complicit in genocide and the destruction of the American way of life. Republicans and Democrats alike, vote against the best interest of the American people all the time. This current bill the Democrats overwhelming voted on giving aid to Israel, and trying to ban TikTok.... 
+
+With the amount of money they just gave away, we could have ended hunger and homelessness in the US.",1,531,1.278629166,Long
+628,SensitiveMeaning1741,He already confirmed he’s running again but no way he’s winning look at his approval,1,84,-0.263970692,Medium
+629,Uva_Be,"It sort a feel that way when doing yearly taxes. 
+
+Some folks on Twitter were talking about Social Security Caps and Solvency. 
+
+What are your thoughts on that I wonder?
+
+https://www.ssa.gov/oact/cola/cbb.html#:\~:text=We%20call%20this%20annual%20limit,2023%2C%20this%20base%20is%20%24160%2C200",1,294,0.46074065,Long
+630,SunnyNowAndThen,Please do so!!  And thank you.,0,30,-0.450325037,Short
+631,Roughneck16,Why?,0,4,-0.540051204,Short
+632,Uva_Be,"Me too. Everybody vote please. 
+
+&#x200B;
+
+P.s. I'm Gen-X",0,57,-0.357147865,Medium
+633,Lazy_Gringo3,"The nation is now deadlocked and gridlocked, 45-45 or 50-50. Neither side has any advantage except the gerrymandered districts by then GOP. if they win the House they will likely lose the vote, so very undemocratic. However Dems are now favored to add senate seats, so the Maga clowns and traitors would take over the House and waste time running a lot of bogus investigations and defunding Ukraine for their master Putin while the senate would block anything they do, as would Biden.
+
+Attention then turns to the states.  The conventional wisdom is that Desantis and Abbott are somehow unbeatable, but in fact they are both very beatable and victims of the same 45-45 50-50 situation.  Neither TX nor FL is really a red state, FL definitely purple and TX almost purple.   Therefore those two governors races are up for grabs by democrats if they can harness the momo and get turnout to record highs. If so, then dems and Carlie Crist could knock off desantis before he even has a chance to run for president.
+
+In both TX and FL, Desantis and Abbott have less than 50% support, around 47-48%. But they also have more than 47-48% who disapprove of them and around 45% who strongly disapprove of them.   So any wave of good vibes by Beto and Crist can do the trick. Desantis is now stuck and unwilling to ban abortion as he promised the religious right, l but everyone will know he's going to do it if he wins.  Polls show that 10% of voters plan to vote with abortion as their #1 issue, and those are all pro choice voters.  That right there could make the difference.
+
+Also, Trump is now the least popular politician. He is less popular than Biden and less popular than the generic Republican.  So he will be a drag on the party especially if the GOP nominee is endorsed by trump.",1,1780,5.588936151,Long
+634,Uva_Be,"Three years ago, and Biden is already 80 before the end of his first term. 
+
+Harris is a ghost. Only a few sometime odd bits of her speeches make it through the orange haze that coats the news media like the hood over a fryer stove. Not that W Bushes father was much of a talker either. Trickle down went so well, ... ask if you aren't old enough or have read enough history to know what trickle down economics was about. 
+
+Thanks very much for trying. Personally, I wouldn't mind POTUS Harris at all. Much, much more intelligent and younger than both of those old white guys in the lead er, by various metrics, Biden only seems to be in the lead via fund raising, not by the polls. Anyways.... too little, too late, what now?",1,726,1.951575412,Long
+635,Uva_Be,"When I look at US statistics I'm often amazed at how well Bernie is doing as senator for the people in Vermont. 
+
+I don't know what you are talking about with the 'outspending Biden 50-1.' Could you please find some links to more specific data, I would like to read it. 
+
+For example, on the line about cutting the Pentagon by half? I didn't find any facts to support that. I see a bill for a 10% cut and it looks very good to me. 
+
+https://www.markey.senate.gov/news/press-releases/markey-sanders-initiative-to-cut-pentagon-budget-by-10-secures-support-of-half-of-us-senate-democratic-caucus",1,592,1.489140556,Long
+636,Uva_Be,"Oh hi there. I have been doing a lot of research since 2016, trying to understand how the US got to were we are now, so divided. And I have a theory that the mainstream TV news, mostly FOX but not limited to them has been using CIA level brainwashing techniques of repetitive talking points. For decades, since the 60s. And it's not limited to just politics. It's also crime, racism, anti-women, etc... The goal is corporate profit, just in case you wondered. 
+
+And the other part of it, the Red/Blue divide is life experience and family history. Some people have TV playing in their homes, just running, to keep them company. Other people like my Mom didn't allow a TV in the house at all. 
+
+Sorry, to ramble, but, I'm a 100% say what I mean kind of fool. I just ask. And I don't blame anyone. It's the way their life happened. We don't get to pick our parents.",-1,862,2.420912282,Long
+637,,"That’s kind of a feeling, his record could’ve been worse, I mean he veto’d anti trans legislation and took a lot of push back for it, but stood by it.",-1,150,-0.03620427,Medium
+638,Lazy_Gringo3,"Matthew McConaughey runs a charity for underprivileged minority kids and is buds with Snoop Dog.   No one no matter what race cannot fall in love with Matthew.  The only two viable candidates on that list are Harris and Newsom, but if Matthew runs, they are beaten.",1,265,0.360661465,Long
+639,RusevReigns,"I think this was the plan but it depends if they still believe in Harris as the choice, maybe they want someone like Buttigieg as the replacement.",0,146,-0.050008296,Medium
+640,Uva_Be,"It looks like Jill Stein isn't even going to get on the ballot in a few state primaries. So, there goes that thought. 
+
+Unless something really miraculous happens. I know I'm voting for the Incumbent in the general election in November.  The nation just needs to survive this next few years and then plan ahead for 2028.",-1,320,0.550466817,Long
+641,Entire-Ticket3155,L bruh,0,6,-0.533149191,Short
+642,Entire-Ticket3155,L,0,1,-0.550404223,Short
+643,Lazy_Gringo3,"You are fing insane.  No rights over their bodies?  Who are you, the inmvasion of the body snatcher alien?   Go away.   and dont vote if you hate democracy and civilian rights.",-1,176,0.053521896,Long
+644,MikelDP,"America is also the 16th in countries with the cleanest air using the EPA's list of what it considers real ""air pollutants"".
+
+Other countries pump real air pollution in to the environment. America spends tons of money converting pollution into CO2 for the environment because thats what plants crave.
+
+The US is between Portugal and the Netherlands on real air pollutants.
+
+EPI Yale",1,382,0.764429213,Long
+645,nogooduse,tell that to rapists and pedos.,0,31,-0.446874031,Short
+646,floridapoliticalnews,"Totally agree.  ""In addition to Cotton’s appeal to establishment Republicans, he also more potential cash than a rookie presidential candidate, thanks to low competition he faced for Senate in 2020, Cotton was able to focus on building donor bases in Iowa and New Hampshire. [Cotton has $8 million that could immediately be transferred to a presidential effort](https://2024field.com/2022/06/watch-for-more-tom-cotton-2024-campaign-rumors-leading-up-to-july-4th/), enough to sustain him through the early stages of a campaign."" https://2024field.com/2022/06/watch-for-more-tom-cotton-2024-campaign-rumors-leading-up-to-july-4th/",1,628,1.613376786,Long
+647,BigDAS1969,Why are Democrats so silent?  That’s easy.  They’re packing up and finally moving to Canada.  Cross my fingers.,1,111,-0.17079352,Medium
+648,Hilldog2020,"If you arnt putting POC candidates as both, you are racist , sorry not sorry",-1,76,-0.291578743,Medium
+649,TargetNo9243,Hell no….. dem is fuccking up themselves big time!!,0,51,-0.377853903,Medium
+650,Crazy-Sir512,Trump,0,5,-0.536600197,Short
+651,Immediate-Assist-598,"liar, stop trolling me.",0,23,-0.474482082,Short
+652,jchill_,"One year later…
+
+I think Newsom is weaker than most think. He comes off as the definition of slimy coastal elite. Whitmer might honestly be a better candidate.
+
+As for DeSantis, my top picks for VP are Kim Reynolds, Mike Garcia, Tim Scott, and Glenn Youngkin. Not sure which is best but at the moment I’m leaning Reynolds since she’s a popular governor of a midwestern state and offers a calm demeanor to help balance out DeSantis. Also may help ease some suburban moms.",1,470,1.068117776,Long
+653,Consistent_Drop1006,If Gary Johnson can’t…,0,22,-0.477933089,Short
+654,Uva_Be,"Thank you, I wouldn't have read about Admiral W. McRaven without your vote, here.
+
+It just confounds me, there are many, many Americans who sure seem like they would be better options then those two senior citizens. 
+
+And I'm just... I don't know why there is no popular conversation about finding someone. 
+
+And... when did I first post this? 
+
+Just saying they have to be on the ballot by March 2024 whomever they are, and it's not going anywhere so far this year as of January 2024.",1,485,1.119882872,Long
+655,ReasonableGap7912,Oh yeah and I don't want to stick it to the libs I myself am a libertarian. Oh and for the record I support gay rights trans rights and I am a 45yr old white male and voted for democrats for 20 plus years but they have it all wrong now socialism doesn't work i promise you I've studied it for 20yrs was a supporter for 20yrs and it never works,1,343,0.629839964,Long
+656,,Would much rather see katie porter as pres. AOC would be kind of a useless president imo. I think shes fine where she is.,1,121,-0.136283456,Medium
+657,rfill01,Crazy women will be protesting. They can kiss Trump and our you know what. You can join them.,-1,93,-0.232911635,Medium
+658,Uva_Be,Really? 2 billion people from where? Interesting.,1,49,-0.384755916,Short
+659,Hilldog2020,Pete Buttigieg  looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooool,0,82,-0.270872705,Medium
+660,SofaKingJEDI,"www.shearree2024.com
+
+Younger but I'm not a millennial and I know what gender I am since I looked down and saw my penis at the  young age of whatever it was. for me pronouns are about grammar they are not a lifestyle but that's just my personal opinion",-1,252,0.315798382,Long
+661,SwampMonster02,Or Kennedy,0,10,-0.519345165,Short
+662,,Is English your first language?,1,31,-0.446874031,Short
+663,Uva_Be,"I like the word Democrages. 
+
+2028 huh? Not as soon as 2024?",0,60,-0.346794846,Medium
+664,Banestar66,Beto is going to lose yet another race this year. His political career will be over.,0,84,-0.263970692,Medium
+665,DMBFFF,Good thinking out of the box. 😁🙂,1,32,-0.443423025,Short
+666,Uva_Be,Sooooo... confusing. I don't even know what kind of cool-aide this is.,1,70,-0.312284782,Medium
+667,ReasonableGap7912,I agree. And she can continue to destroy America just as much as Joe,0,68,-0.319186794,Medium
+668,Traveller161,"Biden is a horrible and corrupt person along with the rest of his admin. They covered up all the corruption that goes along with Hunter Biden, Ukraine, and don’t get me started on the dumpster fire that was the Afghanistan pull out. RFKJR’s voice is caused by a traumatic brain injury that he had that only affected his vocal cords. He got surgery to fix it and is now completely fine. Hell, he even admits that he hates the way his voice sounds. I recommend you listen to him speak rather than absorb the democratic propaganda you’re being fed. You are probably so far in the dark that you haven’t even seen the contents of hunter Biden’s laptop. Literally a pedo who r🦍d Obama’s daughter.",-1,690,1.827339182,Long
+669,Immediate-Assist-598,"The last actor to become president of a country is Zelensky in Ukraine, the greatest leader of our generation.    Many also feel Ronald Reagan was the greatest leader of the last generation.   Arnold S also turned out to be a fine leader.   So I am not worried about Matthew at all.  If he decides to run, he will educate himself quickly and make wise decisions.
+
+As for Trump, he is a professional con man and crooked businessman fed by his father and then Putin's money.  Trump doesn't even read or write.  He is an ignoramus. He doesn't give a damn about anyone but himself and Putin. He didn't even know Finland was a country.  He didn't even listen to his intel reports. He was incapable of discussing a single issue in any rational detail.  All he cared about was what was in it for himself.  He is a criminal in all ways, and now a proven Russian-backed traitor.  He has taken huge bribes from Russia, China, Saudis, the NRA, Big Oil etc etc., so they own him. 
+
+Also, while Trump did play a fictional billionaire in The Apprentice, he cannot be called an actor. That is an insult to the craft and art of acting.   So let's dispense with that argument and think Zelensky and reagan, not Trump.   Matthew can do the job and most important, he can win by a landslide.",1,1272,3.835824903,Long
+670,Top-Ambassador-4981,"You’re delusional, sad to say. The women in the US   are going to create a Blue Tsunami. You / please -stay home",-1,112,-0.167342513,Medium
+671,Immediate-Assist-598,"Spoken like a true RNC spin doctor.  The GOP is terrified of all three of them. especially Matthew.   So please spare us the false assumptions and kneejerk hatred and stupid insults aimed at anyone who isn't a Maga neo fascist republican.   The country cannot afford Trump or Desantis as that would be the end of democracy and what makes America truly great. Also, Putin is behind botrh of them and in case you hadn't heard, Putin is our enemy and we are basically at war with him now, a very just war on our part I might add, and a mandatory one.   The question is what comes next?  Gavin Newsom might be great but if it is close race and Trump-Desantis uses the election fraud tricks they have already set into place, well not very good for our country, right?  and Kamala Harris might rise to the occasion and catch fire. Biden might even run again in much strronger shape than he is now, but I a, looking for another answer to save the USA.
+
+Matthew McConaughey almost ran for Texas governor.  That proves the baseline, that he is considering running for very high office.  If Beto hadn't been there, much better prepared, Matthew might have gone for it. He would have won by a landslide too. Or maybe Matthew just didn't quite think it was worth giving up his wonderful career, family and charity life.   But president if the country really needs him?  
+
+Matthew returned to his super fun family, show biz and charity life, but then Uvalde happened. His hometown. That changed his life.  That struck him very deeply.  He hired a political lobbying firm and next thing he was at the White House podium,  meeting with Biden, top senators of both parties and making his presence known. You can also see the experience deeply moved him and no doubt he knows that if he wanted the presidency and devoted himself, he could win it.  
+
+Matthew has been underestimated all his life.   There is something about him that transcends all the usual partisan BS. He is a combination of liberal and conservative.  No one owns him.  And anyone who says an actor can't be a great president remember Zelensky was nothing but an actor before he became the greatest president in the world.  Not to mention Reagan, Al Franken, Arnold and others who have excelled.  So people complain about career politicians and gridlock, well Matthew is the answer.  Now he just has to decide to go for it.    if you agree, join me on my MM for president subreddit and let's do our part to encourage him.",1,2472,7.977032575,Long
+672,Effective-Plant290,Oh you and your husband are going broke under Kamala good luck,1,62,-0.339892833,Medium
+673,Henrious,"I understand the sentiment, but it's a much larger problem than one administration. Decades of bad decisions. I'm not going to touch on him or Biden because it's too modern and hot as far as discussions. I am also a blue-collar worker. 
+
+What we honestly need is a complete overhaul. By people with the publics interest at heart. Not money or their own. No one likes taxes because our government burns trillions like no tomorrow. Getting rid of corruption and waste would go far. Both parties benefit from it too much to do anything.",1,533,1.285531178,Long
+674,Uva_Be,"I feel a somewhat similar cycle from being a long-term cancer survivor (24 years and 3 rounds of cancer starting at 26). Not my point. I feel hurt twice over having to defend myself, just to get the medical care I need, and deal with people who talk to me about their own cancer survivor experiences as a grandparent with their children having survived and made it to adulthood. Er... the profound loss. Sometimes the harm in my case isn't even anybodies fault, it's not a hate crime, it's just honest ignorance. So, I know, that I can't completely relate. Any more than I can understand what a soldier goes thru having lost an arm or a leg in their 20s. Anyways, I ramble again. But, the cycle is very real. And it's not just limited to one type of case. The ironic part is hate is the weakness. And anger burns a hole in our own heart. 
+
+How do we stop the cycle and break free? That is the question.",1,902,2.558952538,Long
+675,,"You do have a choice, it's just that the people you prefer are not popular enough to win primary elections. And you still have a choice between Biden or Trump, one of which is objectively worse for more people.
+
+Good to know you are ok with more people suffering as the US ""burns down"" because your wants aren't met.
+
+Are you looking forward to the republican's Project 2025 plan? Christofascist USA here we come! I wonder how long it will last before it ""burns down"".",1,468,1.061215763,Long
+676,Crazy-Sir512,Well tell me your assumption first . Why do you ask,1,51,-0.377853903,Medium
+677,Uva_Be,"Very true. Presidents aren't dictators. 
+
+That's why I'm starting this conversation before the 2022 primary. 
+
+No matter who is in the White House. If they want to get anything done, it is up to the people to get rid of the do-nothing-Democrats who are acting as obstructionists partisan Republicans. 
+
+We need to elect member of congress who actually listen to us, not get bought off with corporations dirty money. 
+
+Also, again correct. Climate change is a world problem. We need to lead by example and work with the entire world to fix it, AND it's probably going to take 1,000 years IF we mitigate the damage and clean up oceans and care for drying up underwater aquifers, etc....
+
+I totally agree. 
+
+BUT, for the first time young voters 35 and younger are the majority. 
+
+Young people have the numbers to replace our current Congress and Administration.",1,858,2.407108256,Long
+678,Visible_Music8940,"Two words: Chuck Norris.
+
+Slightly more seriously,  Jimmy Carter.
+
+Actually serious, Joe Biden and Kamala Harris. They may be boring, but if you think AOC or Beto or almost anyone else could have done more over the last two years given the restraints they've had, split senate, conservative judges,  COVID 19, war in Ukraine, and strained alliances abroad, your faith is probably misplaced. 
+
+Moreover,  continuity in government matters. AOC or anyone else would have to hire an entirely new staff, and one almost certainly less experienced.",-1,541,1.31313923,Long
+679,UnlikelyFunction652,I saw none of this from her….,0,29,-0.453776044,Short
+680,Natick1957,"We live in terror of the Orange Retrovirus getting back in office. My husband and I are on SSA Retirement and Medicare, and our autistic adult son is on SSI and Medicaid. (Luckily, he also has commercial insurance). We are slowly building a nest egg for him, but it will never be enough. 
+We also have a daughter. I can’t bear the thought of a nationwide abortion ban. When I was 13, my mom sat me down and told me if I got into trouble, tell her right away, so she and my dad could take me to Puerto Rico or Sweden. I had only played Spin the Bottle, but I knew what she meant.
+I was 16 when Roe went into effect. I never, ever thought that we would go back to having to travel overseas (if you were lucky enough to afford it), or to DIY abortions, like Nirvana’s “Pennyroyal Tea”. 
+The Short Fingered Vulgarian will turn our country into an impoverished, Evangelical Christian hell, where billionaires, tech bros, and corporations will kill off the rest of us, literally and figuratively. 
+This is the week from HELL. 
+I feel so grateful to Reddit and its community for giving me a safe place to vent. Thank you ❤️",1,1116,3.297467906,Long
+681,Picapica4,"Republicans that endorse Kamala:
+Geraldo Rivera
+Liz Cheney
+Dick Cheney
+General Miller
+General Steve Anderson
+Anthony Scaramucci
+Olivia Troye (national security official)
+Adam Kinzinger
+Stephanie Grisham
+Geoff Duncan
+Alberto Gonzales
+17 former staff members of Reagan
+Over 200 former Bush&Mccain&Romney staffers endorse Harris (source: Fox, btw)
+
+Republicans who won't endorse Trump:
+Mitt Romney
+Mike Pence
+George w Bush
+John Kelly
+
+
+More than a dozen former Trump administration officials signed on to an open letter backing comments from former White House chief of staff John Kelly in which he said former President Trump met the definition of a fascist and expressed admiration for Adolf Hitler. (The Hill)
+
+
+How many democrats have endorsed Trump? 4?
+
+
+Trump, and Vance, both keep denying the election result. With zero evidence. And there are big consequences of these lies, as so many Trump voters swallow it with pride. They are denying the wish of 81 million Americans.
+
+
+
+Covid was harsh on everyone. The inflation graph looks almost exactly the same for Europe as for the US. Blaming Biden's administration for high prices isn't right.",1,1145,3.397547091,Long
+682,,"Politics isn't a childish game, you need people who can win economic wars and control terrorism, people who can negotiate with putin and X Jinpingi!! You think AOC can do that? All she has to say is free everything, free healthcare student loan forgiveness subsidized xyc ...",1,275,0.395171529,Long
+683,Uva_Be,"Yeah, Reaganomics [https://en.wikipedia.org/wiki/Reaganomics](https://en.wikipedia.org/wiki/Reaganomics) =( Terrible long term impact we are still suffering from today. Gutted the middle class with debt.",-1,203,0.146699069,Long
+684,Uva_Be,Not long enough for how important of a topic this is.,1,53,-0.37095189,Medium
+685,ChemicalWay9591,"Wow!
+You are so wrong it's ridiculous. 
+The democratic party was founded by slave owning southerners  and they fought EVERY SINGLE LAW that would give black people equality for a century until lbj when they decided to instead use programs like welfare to destroy the community while brainwashing them to think they are being supported .
+
+The idea of systemic racism is completely ridiculous since every law about race is to help minorities.
+You talk about nazism?
+The far left ideology is Clearly socialism which is as nazi as it gets.
+
+Women's rights to choose is a buzz term.
+So a woman carries a baby for 9 months.
+Where are the child's rights to live for 65 years?
+What about the father's rights?
+Don't give me that It's not a baby bull.
+98% of abortions are simply because the child is unwanted.  
+So u kill it?
+Dems ares good with words, bad with truth",-1,858,2.407108256,Long
+686,Visible_Music8940,"Tangents are what I live for my friend.
+
+I agree with you about the hesitancy Biden has shown about removing people. It frustrates me, though I do understand it. He does not want to create the impression that a president can just remove everyone the previous administration appointed.
+
+If that sort of thing stops with Trump,  it is an anomaly.
+
+If it is continued it becomes a new and dangerous normal.",-1,403,0.836900347,Long
+687,Uva_Be,"No go for Robert Kennedy. 
+
+I don't fully understand what trauma he suffered from vaccines, but the deaths declined after the RNA was developed. And old vaccines are not the same type.",1,184,0.081129947,Long
+688,ViejoMac,"We’re probably on opposite sides of the political spectrum but we agree at least on one point:  the political process in WAAAAAAAY to long, and stressful. Seems like politicians begin campaigning soon as they’re elected.  They spend so much time trying to KEEP their job, they forget how to DO their job.",-1,304,0.495250714,Long
+689,Bertovibe,"Voting is an inherently biased action. You vote for what matters to you and that is founded in your upbringing/environment/personal life experience. Sorry kid, but you have to figure out what’s important to you and your community. You vote based on what you feel is going positively change any negatives you perceive and what positives you want to cultivate. I would encourage you to travel to other communities and see how they live, how laws affect their lives and how other people are affected by the government around them.",1,527,1.26482514,Long
+690,Uva_Be,"I really think we need a woman POTUS. \*sigh\* 
+
+need?
+
+It sure feel like we aren't going to get what we need. 
+
+But, that's why we are all here talking about it in 2022 :)",1,172,0.03971787,Long
+691,Scope_Dog,I don't think people like him. Am I wrong?,-1,42,-0.408912961,Short
+692,SunnyNowAndThen,"My dream candidate is Joe Biden.  The media has not done a great job of covering him, but people who know Washington and how things work or don't work there know that his getting ANY of the bills passed that he wanted past is miraculous.  This is what a politician with exceptional experience can do.  He has the friends, the favors to call in, the arms to twist - all that is really needed to get things done there.  He will go down as one of the GREATEST presidents.  I hope all democrats will take time to look fairly at him.  I feel sure no GOP member will.",1,561,1.382159357,Long
+693,sol_air_dude,"So....I think the evidence of what happened this election. Now that there was a conscious effort to keep election interference and fraud at a minimum, and it was a landslide. 
+
+Also, the American government sent a letter to Venezuelan voters about the results of their recent election, saying that they were actually wrong and was a glitch in the voting machines. Apparently, the person who ""won"" did so in the most unexpected come from behind way possible.
+
+And one thoughtful person wanted to look at the bar graph of the so called glitch and overall election results. Guess what?
+
+They're exactly identical to the voting results in Georgia....where Biden came from way behind and won. 
+
+Look, I'm not a Trumo supporter. I definitely think he's the much better option that Kamala Harris, who literally fucked her way into the white house. Either by actually rucking people, or fuckjng people over.
+
+And im not sure why you're telling me all the Republicans who supported Kamala? That proves one thing to me, as does all the celebrities endorsing Kamala (whom she paid a lot of money)  these people are part or the Status Quo that has kept America In a perpetual and unwinnable war against terrorism, which is really just an excuse for globalization. 
+
+These are the same people who want the W.H.O. to accomplish their mission of lowering the world population. These people are literally trying to destroy free speech (Romney, Hillary and Kamala specifically) and they paid Eminem to endorse her...or blackmailed him. I don't know. Watching someone who became a extremely wealthy individual by exercising his right to free speech endorse a person who is working with others in her party to censor and remove any speech they deem as hateful or misinformation......but hey. She's a woman who may or may not be black, and she's not Donald Trump or Joe Biden, and apparently the process of becoming the presidential nominee doesn't apply to her. She's just special.... so special that she wasted 
+
+
+A BILLION FUCKING DOLLARS ON PROBABLY THE WORST CAMPAIGN EVER, AND SOMEHOW ENDED UP 20 MILLION DOLLARS IN THE HOLE! She did this in 3 fucking months. 
+
+Imagine what the economy would look like in 3 months with her dumb ass running things",-1,2233,7.152242047,Long
+694,Holysquall,"The primary is simple: Trump picks . 
+
+And I don’t think he’ll want them to actually win and Supplant him as leader of the party.  He is MUCH happier throwing rocks from the outside and building . 
+
+Tucker Carlson ftw",1,217,0.195013158,Long
+695,OverallGamer696,"In my opinion, no one over the age of 80 should run for president.
+
+Thats why I would rather have Buttigieg run in 2024 rather than Biden",0,137,-0.081067353,Medium
+696,TargetNo9243,Fuccck democrats! The way they are doing? Look at nyc or LA or wherever blue states are doing. If im rich i wanna get the hell out of blue states too,1,149,-0.039655277,Medium
+697,UnlikelyFunction652,"A carefully put together list of black folks, and the black vote went for the white man….",-1,89,-0.24671566,Medium
+698,Banestar66,"What makes you think things would get any better under Harris?
+
+Also why do people think Biden won't run at 82 if he was ok running at 78?",1,138,-0.077616347,Medium
+699,StormEmergency4387,"If trump doesn't win there will be a revolution and at worse a civil war.
+
+If not we suffer for all of this countries existsnce moving forward. If you are born citizen. Legal, or even have a half functioning brain you'd realize the democrat party has done nothing for you. 
+
+If ypu fight for more laws ypu are anti freedom. Let's fight the overlords together by rejecting their words and morals. Best of luck to you.",1,416,0.88176343,Long
+700,ReasonableGap7912,Any serious candidates?,-1,23,-0.474482082,Short
+701,Jancol1,What can he say except you’re welcome...,1,40,-0.415814973,Short
+702,Traveller161,And the others are any better?,1,30,-0.450325037,Short
+703,Uva_Be,"No, I really do like it. :) I'm very literal. 
+
+Thank you for your sincerity. 
+
+No worries. g is bellow t on the keyboard.",1,122,-0.132832449,Medium
+704,Banestar66,"Depends on the underlying conditions. Right now, I'd say it would be 50/50, maybe ever so slightly leaning Dem.",1,111,-0.17079352,Medium
+705,Uva_Be,Tell US more.,1,13,-0.508992146,Short
+706,rlivenmore,"Climate action is a scare tactic to try to force socialist legislation. If implemented like leftists want, it would reduce 2 billion people from middle class to poor and 2 billion others who are already poor to not able to survive. And there is no assurance that any such legislation would effect the climate.",-1,309,0.512505746,Long
+707,SunnyNowAndThen,Before when every home had a phone and was in a phone book polls meant something.  Now they are a collection of phone numbers from some business and mean nothing becuase they are no longer a representative sample.,-1,213,0.181209133,Long
+708,nogooduse,"**Iran made a fool of Trump**
+
+In 2015, Iran agreed to surrender 97% of its uranium, but Trump pulled out of that deal in 2018, and Iran returned to developing weapons-grade uranium.
+
+Iran fired missiles at US troops in Iraq, injuring over 100 Americans. Trump pretended it didn't happen, then said no one was injured. He took no action against Iran.
+
+**Putin made a fool of Trump**
+
+Putin put bounties on US soldiers in Afghanistan; dozens were killed as a result.  Trump did nothing – didn't even complain to Putin.
+
+Trump told Putin to go ahead and invade Europe.
+
+**The Taliban made a fool of Trump**
+
+Trump freed top Taliban leaders in exchange for nothing.
+
+Trump then gave Afghanistan to the Taliban. Literally.
+
+**Kim Jong Un made a fool of Trump**
+
+NK doubled their missiles & nukes on Trump's watch.
+
+**Mexico stood up to Trump**
+
+Trump couldn't even get Mexico to cooperate on the wall, let alone pay for it.
+
+**China called Trump's bluff**
+
+Trump's trade war with China cost the US 250,000 jobs, billions of dollars, gained nothing.",1,1053,3.080054503,Long
+709,Uva_Be,"Romney. At least he had some good ideas as related to healthcare. But, how will that work as the leader of the GOP? I mean would it go anywhere with today's GOBs?",1,162,0.005207807,Long
+710,Straight_Mango_4401,"You're right...it wasn't close at all.  You still believe the propaganda, the media kept telling you it was close to manipulate you.  Most people knew it wasn't close at all...Too big to rig.",1,191,0.105286992,Long
+711,Picapica4,"She did not fuck herself into her position. That is a sexist republican lie. She is a lawyer ffs. We need more of highly educated people in office.
+
+
+War against terrorism an excuse for globalisation? Wtf are you on about. Globalisation is not bad, that's also some lie I don't know where you get from? There are several examples in history where protectionisms fuck up countries much more than globalisation ever has done.
+
+""I think evidence"". No you don't. Evidence is provided by trusted sources. I don't know what breitfart you get ur weird claims from.
+
+Don't tell me about dems wanting to end free speach. That's also some dumb parroting from Trump supporters. Trump has literally threatened to put people who disagree with him in jail. And he didn't accept when the american people democratically didn't elect him.",1,821,2.27942102,Long
+712,No_Razzmatazz3176,I’m not crying. I’m fine. 🤷🏻‍♀️,1,31,-0.446874031,Short
+713,Uva_Be,"There's a lot in this post. 
+
+We need new progressive leaders to replace these old ideas. Biden saved our pathetic asses from 2020s pandemic voting nightmare. I mean do we even know how many people got COVID and died BECAUSE they had to vote in person? Just look at the spike of deaths after November. We can do better than compromise in 2024.
+
+Ukraine is too tragic and horrible to call it ""giving Putin a bloody nose"". Sorry, we have to get rid of our dependence of fossil fuels. It's not a fight the world can survive climate change, and pushing towards WW3 is ... it's not a ""fight"" anyone or anything alive wins.
+
+Get rid of Manchin, we need to find someone better, not settle. 
+
+This is a quote from Newsweek 
+
+The co-founders of the No Excuses PAC are searching for candidates to run against the pair since both Manchin and Sinema are up for re-election in 2024.
+
+They are the same PAC that got AOC elected. We can do better than Biden/Harris, in 2024.",-1,959,2.755659902,Long
+714,Uva_Be,"Nope. I don't understand why people dislike her so. 
+
+I think she has a lot to offer. And I'm grateful that she is serving in congress. 
+
+P.s. Do you have actual logical reasons why she is not a good politician or are you judging her by her dancing and remarks taken out of context when dealing with complex people in the US?",-1,325,0.567721849,Long
+715,Uva_Be,"That's pretty funny. Sorry, if not meant to be funny. 
+
+Is Joe Rogan considering running?",1,89,-0.24671566,Medium
+716,nogooduse,"Love the way you threaten violence right out of the gate.  Overlords?  That would be the Koch Bros, Elon, Theile, Trump, etc.
+
+I've voted GOP since the 1960s - until Trump.  A totalitarian criminal will never get the vote of intelligent, honest, decent people.",1,260,0.343406433,Long
+717,Uva_Be,"So tiresome, Trump not getting convicted for anything. 
+
+Everyone alive knows misogyny is alive and well in America. 
+
+I skimmed a Slate article released yesterday. Something about New Democrats to replace Biden ... and pulling a Bloomberg. It was not encouraging, this article. 
+
+I liked the way you spelled Abprtion -- I know it's a typo, but it's perfect. Because of a lot of reasons all too depressing to list.
+
+I hope everyone is voting in the midterms in 2022. Congress really needs to get some people who are working for the people who elected them, not against them.",1,574,1.427022441,Long
+718,RusevReigns,"Not sure there are real independent voters anymore. The US is in a mirror reality where you either think the far left are insane authoritarians or you think the far right are. It just depends which one you believe.
+
+The person in the middle would be someone like Haley who is somewhat anti Trump Republican but hasn't gone full Liz Cheney.",-1,339,0.616035938,Long
+719,Lumpy_Ad3349,Same,0,4,-0.540051204,Short
+720,Smart_Yogurt_989,"Why didn't biden keep his campaign promises. I feel cheated. No student relief, oil drilling, smh...",0,100,-0.20875459,Medium
+721,OverallGamer696,Bernie sanders a little old to be president. rn he’s 81.,-1,56,-0.360598871,Medium
+722,RusevReigns,"My suspicion would be Carlson wouldn't have the stomach to be around people he hates so much, otherwise though he would be a popular candidate",1,142,-0.063812321,Medium
+723,SunnyNowAndThen,"Oh, and reagan is the one who stole first from the social security trust.  Not only did he slam down the middle class and poor and take pride in bratking unions, but he got laws passed for the first time that let the rich skip taxes and run wild.",1,246,0.295092344,Long
+724,Just_lurking_toad,"Thank you. I think this was better then condolences, because they often ring hollow. ""You'll be ok."", but what if I'm not? I'm absolutely not going to hurt myself, I've learned that the impulse comes from trying to force others to feel empathy. To see the hurt in the way I do. But that's not what happens, ito it only leaves me hurt and then I don't have as much strength to fight the hurt others are causing. But I still have those impulses, and its can be hell twice over the dealing with being hurt and my own thoughts about hurting myself. I'm not at all surprised young people have been taking their lives at higher rate in the past few years but every person gone is a profound loss and weakness our chances of changing the system causing the harm in the first place.",1,774,2.117223719,Long
+725,Kacenty,and you are at the bottom of Graham’s Hierarchy of Disagreement. Operating out of fear. You’re a coward with no backbone. I vote with my heart. you can vote based on CNN. Sit and wait for the day that maybe this corrupt duopoly will do something for you. The independent thinking women & men in the US will do the hard work and bring a new american revolution. Cheers 🍻,-1,369,0.71956613,Long
+726,Top-Ambassador-4981,Kennedy? You are throwing your vote away. Do democracy a favor and stay home. RFK Jr has inherited his aunt’s insanity gene. This election is a referendum on democracy vs. fascism. Periodt. Vote blue no matter who.,0,214,0.184660139,Long
+727,Effective-Plant290,"Until Harris stops lying and fear mongering to get voters. I will never support her.
+Supreme Court ruled on abortion NOT TRUMP.
+So one, she cannot over turn that decision. No president can. And two, a DEMOCRAT was the last to make the decision push the law through.",0,265,0.360661465,Long
+728,Couchmaster007,Reagan had government experience he was governor of the Golden State ffs. Matthew can not win without getting a previous position first it's not realistic.,-1,155,-0.018949238,Long
+729,BigDAS1969,"They can do it.  Liberals know everything.  One of the requirements to be a Canadian citizen is having $2,000 in a bank account.  Now, I know that liberals are bad with money; therefore they open ago-Fund Me accounts.",-1,217,0.195013158,Long
+730,,source? now i dont nessacarly like trump but i dont think hes racist,0,68,-0.319186794,Medium
+731,mysticalmidwife14,No way you're serious. You're probably CIA.,-1,43,-0.405461954,Short
+732,Lazy_Gringo3,Bernie is older than Biden and was rejected by Dem voters 2-1 despite outspending Biden 50-1 and having massive Putin troll support..  he is for cutting the Pentagon in  half at a time when we face both Putin in real war and China in potential future war.,-1,255,0.326151401,Long
+733,LuvSandoz,"Every name you typed here are swamp, those America needs to be rid of, corrupt, all of them became rich from politics. Trump is the only politician in American history whose wealth DECREASED while in office!!",-1,208,0.163954101,Long
+734,Henrious,"There will be elections. For sure, one way or another. I agree with a lot though. 
+
+Altho, I think the machine actually does want Trump. Even now. He's a lightning rod that fills the news cycles enough for the elite to get away with a lot.",1,239,0.270935299,Long
+735,cyrilhent,"Two of your suggestions are republican, dumb dumb",-1,49,-0.384755916,Short
+736,Uva_Be,"Yeah, :) that is a funny dream. I think that's a meme.
+
+Lately, when I get a clip of Jon Stewart, (I very much dislike that his show, The Problem is on Apple, there are too many streaming services and divided camps created by the OS you own or don't own). Anyway, I do like how he can debate with the best of them. 
+
+But, other than that, I'm just watching and waiting with the rest of the US. 
+
+I agree with what you said about the administrative team, or most of them, that Biden brings to the White House. I'm waiting for DeJoy to be removed from Postmaster General. And a few other things to happen. My main complaint is inaction on removing people who have hurt the American people, like (as you mention) the judges, even the ruling against the EPA alone, the potential damage to everything living is ... I don't know how to measure it. Preventive damage is not easy math. Especially when one the metrics is corporate greed. Sorry, now I'm going on a tangent about reality.",1,978,2.821229024,Long
+737,,you dont have to be religious to belive that killing preborn babies is bad,-1,74,-0.298480756,Medium
+738,Roughneck16,"Cotton may be too polarizing. He's an Army vet (infantry officer) and a Harvard-educated lawyer, but he's also a conservative firebrand from the South, which could alienate swing-voters.",0,186,0.08803196,Long
+739,,Gavin Newsom’s DISapproval rating is 49% => almost half of Californians think (can see) he’s doing a god awful job,-1,114,-0.1604405,Medium
+740,Uva_Be,"Just wondering.
+
+Would you say you watch more TV or read more on the internet?",1,78,-0.284676731,Medium
+741,3bas3,"That is good news. And the chances for the Democratic Party to move left will increase. But understand this, and make sure everyone you know realizes. It’s a binary election. The two candidates **are not** equal. One is an autocrat who whether he loses or not is going to claim he won. Trump is a clear and present danger to this countries social landscape. Look at what he did with his first four. Now take all the chains off and guards as Trump surrounds himself with Acolytes who kiss his ass and do his bidding. 
+
+To undersell that this isn’t the pivot point in our republic is a major disservice. We will either have an aging out liberal centrist or an authoritarian. If the authoritarian wins wanna see what they can come up with next? It wont be just women’s reproductive rights. The lack of enthusiasm for Biden should scare everyone.",1,842,2.351892154,Long
+742,TargetNo9243, Only think she can do hahaha is onlyfan,1,40,-0.415814973,Short
+743,Lazy_Gringo3,"The Libertarian party has been property of Putin for years. he paid off Rand Paul and his father a long time ago and now Libertarian websites are filled with Russian trolls spouting the same old Putin fascist disinformation.   In 2016, Putin bought and took over the Green Party too, though only corrupt fake liberal candidate Jill Stein knew it was happening. That was one of the main ways Putin stole then 2016 election. he and his trolls tricked a lot of bernie supporters into voting for Stein.  Which turned out to be the same as voting for trump.",-1,552,1.3511003,Long
+744,Mybravlam,Lets hope he wins. The US has turned into a 3rd world country,1,61,-0.343343839,Medium
+745,Lazy_Gringo3,Pretty much nonsense. You have no idea who black voters would prefer n 2024. They voted for Biden in 2020 though young blacks unwisely protested.,1,145,-0.053459302,Medium
+746,LordGodEmperorPepe,She’s an airhead sic would be worse then hiLIARy,-1,48,-0.388206922,Short
+747,Henrious,Well then,0,9,-0.522796172,Short
+748,nogooduse,"I'm a  straight, normal white male, a real Christian and GOP voter (that is, when the GOP gives me a non-racist, non-fascist to vote for).  Don't pretend to speak for me or others like me.  We are appalled by hypocrisy, white supremacy and hate.  Not to mention frankly insane conspiracy theories about stolen elections, shadow governments, and all the other angry fantasies.  (Like calling Biden a socialist, when he's to the right of Eisenhower.)  Trump fans speak of 'Christian morality': an oxymoron in today's US given the 'Christian' support of racism, various church sex scandals, etc.  If Christ appeared among you today, you would reject Him and try to have him arrested.  Freedom: police killings of unarmed people, attacks on peaceful demonstrators, book banning, laws against giving voters in line a glass of water, taking people from voting rolls for no reason, harassing pregnant women and their doctors...the list is endless. If you people really believed in the rule of law, you wouldn't support insurrectionists or killer cops who make themselves into judge, jury and executioner.  Thank God enough people cared about decency and truth to vote against Trump.  It's just too bad that the GOP failed to come up with a decent candidate. Trump didn't deliver on any of his promises; he's a notorious liar, and only a fool would believe that a second term would be any better than the first. All sizzle, no steak.
+
+The GOP failed to put forward a decent, rational, intelligent, non-criminal candidate.  Instead, they offered a corrupt, ignorant, draft-dodging incompetent serial liar; a failed businessman (in spite of daddy's money) and ex-game show host who main talent was whipping up hatred.  Biden isn't much, but he's way better than the person he replaced.",-1,1775,5.571681119,Long
+749,-Eugene-H-Krabs-,"I think this is actually a very likely scenario because Biden almost certainly wouldn’t get re-elected and the democrats know Kamala isn’t likeable so I think they’ll find someone else to put money into. I think the smart thing to do would be getting some young politicians in the race early like Jon Ossoff and Pete. I also think Cory Booker checks a lot of boxes. I don’t think any of the women that ran in 2020 really have a shot aside from maybe Klobuchar but I just think Republicans are so much better at campaigning against women because they can be easier to attack.
+ I think 2024 is going to be a very tough election for the democrats to pull off but if they’re going to do it they need someone exciting but not controversial. 
+Unfortunately I have almost no faith in them to do this and they’ll probably try some old head or they’ll be stupid and force Kamala into the nomination which she would almost certainly lose.
+With the debates being such a big spectacle these days if you put Pete up against trump. Pete would actually have a decent shot at winning in November. It’ll be interesting I just really hope the dems realize they need someone new.",1,1160,3.449312187,Long
+750,reincarnateme,"Has anyone watched this:
+
+https://www.vice.com/en/article/43n8pm/watch-the-entire-cyberwar-episode-on-hacking-the-us-election",0,125,-0.12247943,Medium
+751,Uva_Be,"Hold them responsible? He he he he we 330 million against how many billion China and India combined? =D sorry, very funny.
+
+They did stop taking our plastic trash. 
+
+China is working very hard to get water to irrigate crops and for the cities in drier areas of their country. And they are producing solar panels like crazy. 
+
+I totally agree on the right-to-repair computers, and use your phone till it actually breaks, do your part to stop e-waste. It's a problem both coming and going. I.e. getting the materials to make the computers and no way to dispose of them.
+
+I can't deal with the human rights issues. I'm mad enough about child poverty and other crimes against the working poor and the last shreds of the middle class in the US.",-1,739,1.996438495,Long
+752,Trick-Needleworker41,"Only way to stop the red wave and one that will win isn't even in politics.  He might do it, if he was urged, and would be a good moderate candidate if he did run.  That is no other than the Rock.  If he ever did run, he would win.
+
+Just like I say Bernie would have won in 2016 if it wasnt for the crooked dems pushing for hillary.  Same way the dems pushed for Biden over Bernie in 2020.  And now we have the least popular president in history.  Rock will be a solid candidate if he decided to run.  He did voice his opinion on TMT in Hawaii, so he might do it if prompted.",1,575,1.430473447,Long
+753,Picapica4,https://m.youtube.com/shorts/zrJFWSF93u0,0,40,-0.415814973,Short
+754,Uva_Be,"Beto O'Rourke is the POTUS in my Bernie as Vice President dream team by the way,
+
+Bernie is in that chair dealing the Veto votes for the Senate as VP. 
+
+Beto, he's very young IMO, he just needs to go national, quit messing with TX.",1,231,0.243327248,Long
+755,Uva_Be,"That would be excellent for TX to have Beto as gov, and by extension and because of the importance of the TX to the rest of the US States, I agree, Beto stay in TX.... for now :)",1,178,0.060423909,Long
+756,SunnyNowAndThen,Hutchinson would bring back slavery.,0,36,-0.429618999,Short
+757,RusevReigns,"It was predictable that Biden would be more popular with black voters than Bernie, Buttigieg, Klobuchar and Warren based on being Obama's vice president, that's before considering that the same tiebreaker I gave it Newsom and Brown here over the other white candidates (straight christian male) also favored him.
+
+Going into the 2020 primary when Harris was a frontrunner you could not have used black voters to determine that Biden would beat her. However her campaign collapsed for other reasons including likely being way less popular with white voters than Biden.",1,567,1.402865396,Long
+758,Traveller161,I don’t even own either tik tok or x. I get my info straight from him or the people criticizing him. Quit defending politicians who are way too old to be leading our country. Biden can barely form a sentence and trump cares more about his image than the he does about the country. Both are full to the brim with corruption and conspiracy. At least Kennedy wants to do something about it.,1,387,0.781684245,Long
+759,Uva_Be,"My Dad is reading the paper. At some point he quips, they had 4 years to do something about the electoral college, and they didn't. And now that my pillow guy is going around spreading lies, again. And they are going to force Georgia, to hand count the number of ballots, even tho there is bi-partisan protest against the time and people and added errors, and RISK for humans to handle the ballots, i.e. the less people handle the ballots, the less human error. It's better to have a tested system, and just run the ballots in the counting machines, then have God only knows how many people moving boxes and boxes of millions, and millions of ballots around. To count all of them ""by hand"". He is VERY upset. 
+
+Then he says, they had four years to pass the budget and they didn't do that either. Isn't that their job?! Why can't we fire them for not doing their job?!! 
+
+And the worst part is, the votes in congress are PUBLIC!!! We can all go look at who voted and who didn't even show up to vote and see why this is such a complete mess. And meanwhile the next article says, Zelensky will meet with Trump, and my Dad yells, ""isn't that illegal"" and if you do a search for what is really happening, not just skim the headlines or worse (listen to Trump ramble) Zelensky is going to the UN, and meeting with everyone he can meet with in an attempt to save the lives of his people. To save his country. And the headline is a lie. 
+
+My point is? People are not doing great with this way too long political process. We need this election to be over already. This is VERY stressful.",1,1578,4.89183286,Long
+760,nogooduse,"Seems odd to pretend that there's any serious question about who to vote for in Nov 2024.  All the usual stuff about experience, qualifications, debating style, even sincerity - quite irrelevant in this election. It's nearly unbelievable that there should be any questions at this point. Harris is a normal, non-toxic human being.  Her opponent is not.  He has promised to end the American system.  Those are the choices.",-1,421,0.899018462,Long
+761,,"politics isn't a childish game, you need people who can win economic wars and control terrorism, people who can negotiate with putin and X Jinpingi!! You think AOC can do that? All she has to say is free everything, free healthcare student loan forgivenes",1,672,1.765221067,Long
+762,Picapica4,"Free speech:
+https://eu.statesman.com/story/news/politics/politifact/2024/10/04/the-context-behind-vances-claim-that-harris-engaged-in-widespread-censorship/75513146007/
+
+Idk what foreign military invasion has to do with globalism. Globalism didn't cause Putin to invade Ukraine without a legitimate reason.
+
+Romney said that Harris showed she's an intelligent capable person. And she has shown she is able to learn quickly, relative to Trump who on the other hand doesn't even like to read. And he's lost all the money his papa gave him.
+
+ We are talking about the worse option here. Going through law school doesn't make you a God that makes no mistakes, and having parental support makes a huge difference, no question, but it does show that you have worked your ass off, not just watching tv and believing haitians eat pets and even go on adamantly claiming that in front of millions of people without a second thought.
+
+On the inmate:
+https://www.politifact.com/factchecks/2020/oct/09/viral-image/harris-didnt-frame-and-prosecute-man-murder/
+
+Talking sense to Trumpsters and conspiracy theorists is a 9-5 job. I hope you appreciate this effort to dig into things. The election in 2020 was fair. I hope your eggs are worth this round.",1,1238,3.718490686,Long
+763,,Trump loves Israel more so that doesn’t matter. ,1,48,-0.388206922,Short
+764,Visible_Music8940,"It is an unfortunate thing indeed. That's why I led with my boy, the one, the only, Chuck Norris.
+
+Although given his age and political background, he would be an awful choice.",-1,176,0.053521896,Long
+765,Effective-Plant290,"I hate what Kamala represents. Uniformed voting. If you genuinely study the facts about her and her policy IDC how ""normal"" she comes off. She going to continue to ruin this country. Even Joe Biden isn't supporting her. What about the 32 incident where she said the same word for ten minutes. ",0,293,0.457289644,Long
+766,ReasonableGap7912,honestly the democrats have no chance at all and it's Joe bidens fault.,1,71,-0.308833775,Medium
+767,TargetNo9243,VP Harris? I barely see her! What does she do? Just collecting paychecks??,1,74,-0.298480756,Medium
+768,TargetNo9243,Just get some help. You liberal idea don’t fly anymore. People are waking up that ya all idea is fuccking nonsense,1,114,-0.1604405,Medium
+769,canders9,"Yep, she and Newsom were trying out the whole power couple thing. They eventually split and she moved on to Donald Trump Jr. Newsom was having an affair with his best friend’s wife, who he’s now married to.",1,206,0.157052088,Long
+770,Just_lurking_toad,I'm already in over my head with stress. I've been having panic attacks and a resurgence in self harm impulses and SI. Election session with Trump on the ticket are the only time I've struggled like this and every time it gets worse. I've ways of dealing with other forms for stress but no amount of mindfulness is going to change the fact that if he or protect 2025 come to be I'm literally materially fucked.,-1,410,0.861057392,Long
+771,ReasonableGap7912,Trump will win in 2024. And Joe is the reason,1,45,-0.398559942,Short
+772,ReasonableGap7912,Religious yes. Nazi no I hate em. Love America. And believe it's the greatest nation ever conceived. Democracy doesn't work we proved that in the Jim crow era. Liberty is what we should be concerned with. And I really don't understand how any of this makes me a racist. I believe Jesus loves every race on earth. And so do I,1,324,0.564270842,Long
+773,SunnyNowAndThen,"Read newspapers your local paper, NY Times, Houston Chronicle, Washington Post, Miami Herald, LA Times, Chicago Tribune, watch news on TV - but not news networks - watch ABC, CBS, NBC.  With newspapers they can be sued for publishing lies and that is why they are the most trustworthy most of the time.  SAme goes for broadcast news on ABC, CBS and NBC. If you see a story in all of them you can be safe believing it true.  For Biden his deeds qualify him as far as I am concerned which you can see on social media in his posts.  The prez can't claim to do a thing and lie without the world coming down on him/her.  For trump the Jan 6 committee report is online for all to read with under oath testimony and it is eye opening.  
+
+Above all avoid OTHER PEOPLE'S opinions on issues and candidates.  Joe Rogan  and George Conway are entertaining commentators but their opinion is no more valuable than another persons or as trustworthy.  The best way to judge is by what the candidate has accomplished, failed to accomplish, promised or will promise to do.  If you have a friend who is for Biden ask them to tell you why.  If they are for Trump, ask the same.  If they can't give you truthful reasons that don't involve prejudices or lies then decided for yourself if you value that opinion.
+
+Look at the Dems and GOP two candidates before you consider a third party.  Why?  Because a third party, unless they can certainly win, could skew the election for the candidate you DON'T want.  Third parties have swept thru before in American history but it is rare.  I don't see it happening here this election, but the next one??  Who knows!!",1,1636,5.09199123,Long
+774,LuvSandoz,"This aged well........NOT, LOL",1,30,-0.450325037,Short
+775,kilmorekermiy,McConaughey v Michelle Obama?,0,29,-0.453776044,Short
+776,,"It's like you're too dumb to understand what I just said to you. You're falling for propaganda and fear mongering. Why choose the lesser of two evils, when there are other options? It's because you're brainwashed into thinking exactly how you do, I better do this to save America. It's every fucking election and you dip shirts eat it up!",-1,338,0.612584932,Long
+777,ReasonableGap7912,Women have no rights over their own bodies. Please they just need to be responsible for their actions.,1,102,-0.201852577,Medium
+778,wrenvoltaire,"In terms of best team that could realistically be elected, it’s Gretchen Whitmer/Cory Booker for me.",1,100,-0.20875459,Medium
+779,canders9,"Homeless and crime spikes. 
+
+The largest fraud in US history under his watch with EDD. 
+
+Transfer of criminal liability of PG&E from a major corporate utility to taxpayers. Just happens to be a major campaign contributor.
+
+Intervention in a campaign contributor’s behalf in a major me too case resulting in multiple public prosecutor resignations.
+
+Multiple arrests in federal corruption investigations in his state’s two largest cities.
+
+Political start was funded by Getty family’s oil money.
+
+Dude has never been in a competitive election. He would get torn to pieces in any national election;  even without mentioning his ex-wife is currently married to a Trump and is a major Fox News contributor.
+
+[Anyone that voluntarily posed for this photo is not going to win an election with income inequality as a major issue](http://nbatitlechase.com/2021/09/16/photo-gavin-newsom-took-picture-with-ex-wife-on-rug-of-his-house-overlooking-the-bay-like-hes-a-playboy/)",1,964,2.772914934,Long
+780,,"Ron DeSantis is getting all the attention right now, but Haley wants to be the sleeper hit. She probably thinks that even if she loses IA and NH, she can turn things around by winning her home state of SC, as it is third (fourth?), and pull a ""Joe Biden"".",1,255,0.326151401,Long
+781,Uva_Be,"The terms are so confusing. Biden is a pragmatist, but I don't find him walking that fine line that is moderate? I don't know how to express it. Radical center, best US example was JFK. 
+
+Pragmatic conservative is Reagan. Terms. Are they useful? How do we the people make ourselves heard?
+
+Quote: searched for Definition  
+Political pragmatism definition  
+“Political pragmatism” refers to a kind of willingness to do whatever works to reach the desired goal, but it does not, it cannot, say what that goal will be. For example, right now, confronting our looming economic depression is a non-controversial and urgent goal; no one denies its importance.",1,655,1.706553958,Long
+782,ReasonableGap7912,I'd vote for Cruz.,0,18,-0.491737114,Short
+783,grahamasterflas,RFKJR/Snoop Dogg,0,16,-0.498639127,Short
+784,Snee_REinvestments,"Please, Hilary is the establishment. She supports her base and her rich donors. No thank you ever. I’ll take Kamala over Hilary any day. 
+
+I want a real person with real people issues for VP. All these generational rich people have no clue what it’s like in the America I live in.",1,280,0.412426561,Long
+785,SofaKingJEDI,"That was a year ago, as things are now I avoid this topic and try to pretend all is not lost. Still have a penis tho.",0,117,-0.150087481,Medium
+786,BigDAS1969,"Let’s see a show of hands.  How many Victicrats will be moving to Canada if President Trump wins?  Every four years they threaten departure, but never do.  Hopefully this will be the year.",1,188,0.094933973,Long
+787,Top-Ambassador-4981,Let’s not put the card before the horse. Right now we just need to get Biden elected. And something needs to be done about the mayhem that the Republican fascist we’re going to cause.,1,183,0.077678941,Long
+788,Uva_Be,"This seems like so much is on the line. 2020 felt like, meh, just more of the same, two old white men choose the one who is more Star Trek versus Mad Max. ... Then as we all know it looked like 2024 was just a repeat. 
+
+Now? What do you think about what happened to Katie Porter? And or California in the primary.",1,313,0.526309772,Long
+789,Richnazdy,RFKJR,0,5,-0.536600197,Short
+790,Uva_Be,"Ah reality. That's why it is Dream candidates, not actually what we have got candidates. 
+
+:)",1,93,-0.232911635,Medium
+791,Uva_Be,":D thank you, you made me laugh. For the future. I'd vote for you too.",1,70,-0.312284782,Medium
+792,Trick-Needleworker41,Liz Cheney cannot even win her own state for re-election and you think she will be a good person for president?  Lol,1,116,-0.153538488,Medium
+793,Sensitive-Bid-9531,Your dream is my nightmare.  I love you still. I used to think like you until I graduated and had to pay taxes. I realized that the US government was not going to make my life better unless I was Kamala Harris or HIllary Clinton. The ordinary citizen under socialism has no way to thrive.,1,288,0.440034612,Long
+794,54321hope,"The real problem is, we don't need it just to be over. We need it to be over with the only acceptable outcome. An absolute fucking nightmare.",-1,141,-0.067263328,Medium
+795,sol_air_dude,"Lol. The wanting to end free speech literally came directly out of Mitt Romneys mouth and was confirmed by other democrats who are against taking away our 1st amendment right. 
+
+
+No, globalization isn't bad when it's wanted by the people living in the country being globalized, but when people are having their homeland invaded by a foreign military, being bombed, having foreign defense contractors come in along with foreign corporations to come in and rebuild it to suit THEIR desires instead of the people of the land who grew up and live there...yeah, that's a problem. That's one of the main ingredients in creating a terrorist. 
+
+Kamala Harris being a lawyer and being highly educated doesn't mean she's highly intelligent. There's  a huge difference between being able to solve problems consistently VS being able to pay a school to allow you to graduate from their University while charging you an absurd amount of money. Money that the majority of people will spend 10-20 years or more paying off. 
+
+Of course, I'm sure her ""middle class"" family had no problem paying for anything in her life.
+
+Btw, Kamalas record as an attorney is a disgusting despicable disgrace. She should be disbarred. Withholding evidence that would free an innocent man and needing to be ordered by a judge to release that innocent man, and still taking an exuberant amount of time to do so, that is blatant abuse of her power as lead prosecutor.",1,1431,4.38453492,Long
+796,cyrilhent,Probably someone extremely ho hum like Pete Buttigieg,-1,53,-0.37095189,Medium
+797,SunnyNowAndThen,"Haley is NOT qualified for the presidency.  No one is who hasn't served in congress at least two terms.  And her goal is a war with China.  She is always talking about that - at least on instagram.  If you are unable to see the outstanding job Biden has done, then you need to look again.  He accomplished stunning things with a mostly hostile congress.  No one else has done that since FDR.  Choosing an inexperienced third part candidate means trump will win.  It is that simple.",1,481,1.106078846,Long
+798,Immediate-Assist-598,Matthew McConaughly wins. Would win 40 to 45 states with 70% of the vote and 97% of minorities.,1,95,-0.226009622,Medium
+799,SnooWalruses6812,"The choice is obvious. It’s perplexing how the race could be close at this point, but it is. The future of our democracy is a coin toss. I’m not coping well with the possibility that my granddaughter might grow up in a dystopian dictatorship, that I will lose my Social Security benefits upon which I rely, that young women will die in hospital parking lots, and that the primary purpose of government will be retribution against one man’s perceived enemies. If the despicable creature wins, how will we manage? What can we do? What will become of us on the world stage?  Does anyone have any coping strategies to employ, even now, when the suspense is so great? I’m not sleeping well.",1,685,1.81008415,Long
+800,Uva_Be,"There's an interesting 2024 candidate.  
+
+&#x200B;
+
+=D Alright, alright, alright.",1,81,-0.274323711,Medium
+801,Lazy_Gringo3,"Beto needs to stay in texas and win there.   it will be close but he can do it.  if so he need only concentrate on TX, he was a poor national candidate too.  Matthew McConaughey is the Texan for president we need.",1,213,0.181209133,Long
+802,ReasonableGap7912,They have the right to say no,1,29,-0.453776044,Short
+803,Uva_Be,"Agree about the Dems. I can't believe the shit they pulled in NY, how many votes was it? over 100k people found they were suddenly de-registered?! 
+
+Also, how did the lame-stream-media not get fined for putting up images of the wrong man instead of Andrew Yang?! Or the Dems cutting his mic off when he tried to speak. 
+
+So the Rock huh? Interesting. I don't know much about him. Fun reading for me. He seems like a very nice person in interviews. As far as I know, I'd totally vote for the Rock. Gotta be honest still makes me laugh tho. It's the wrestler president combo, sorry. 
+
+Thanks for the dream candidate suggestion, exactly why I posted this.",1,652,1.696200939,Long
+804,Holysquall,"The way to beat Trump was with a white Dude , the way to beat deMs is with a strong woman of color .",1,100,-0.20875459,Medium
+805,nogooduse,Biden is to the right of Eisenhower and you call the Dems 'socialist'?,1,70,-0.312284782,Medium
+806,DMBFFF,"Thank you for your reply. :)
+
+(this posted 11:31 PM EST; 28 December 2021)",1,74,-0.298480756,Medium
+807,TexasRabbit2022,"Honestly 
+
+Kamala has a horrible rep and is doing a terrible job as VP, Biden is an idiot ( he’s been in Washington 40 years) he is the establishment
+
+Niki Haley 
+Liz Chaney 
+Michelle Obama
+
+I could see Beto or AOC as a Vice President candidate",-1,244,0.288190331,Long
+808,Neowwwwww,No RFK ?,0,8,-0.526247178,Short
+809,,"DeSantis is way more radical than Trump.  Honestly if I could fix that list
+
+1 - Asa Hutchinson
+
+2- Chris Christie
+
+3- Nikki Haley
+
+4- Donald Trump
+
+5- Ron DeSantis",1,164,0.012109819,Long
+810,MTVChallengeFan,It's hard to link politicians when they work together.,-1,54,-0.367500884,Medium
+811,Kacenty,"not you talking about democracy while telling me to stay home. the hypocrisy. DEMOCRACY yet the DNC are censoring people??? They don’t care about democracy - they care about control. If they cared about democracy they would have pushed Marianne Williamson. A DEMOCRAT WOMAN.  but It’s not corrupt clinton i guess so “IM WITH HER” doesn’t work for them anymore. You’re a victim of tribalism in politics so i can’t take you seriously. biden is losing. he has been losing. Drink the kool aid all you want, biden is finished. The DNC fearmonger you and you fall for it. Trump is not going to destroy America in 4 years. STOP VOTING OUT OF FEAR. YOU are the one throwing your vote away because biden is a lost cause. Kennedy is the only one actually getting people from all sides of the spectrum to support him. can’t say the same for biden! Kennedy24.com/spoiler whoisbobbykennedy.com or just stay ignorant and cry when trump wins. 💜",-1,929,2.65212971,Long
+812,Uva_Be,"The short answer - I typed linking, I meant liking, yes it’s a typo.   
+  
+The long answer – Linking versus liking. I linked POTUS and VP teams for 2024. True, but I actually meant to type liking. I could blame autocorrect. But, I think it was me. I can't read/edit what I write. I've never been able to do this. I'm also terrible at homophones, (words that sound like other words) and will often choose a wrong word based on the word I like the sound of better, in this case lie king versus linking, or le inking. It’s a Freudian slip, also called parapraxis, is an error in speech, memory, or physical action that occurs due to the interference of an unconscious subdued wish or internal train of thought.  
+  
+I copy and paste web links all day when I’m on the internet and I’ve been playing too much Zelda ZTOK, therefore Link’s on my mind. And Le inking it’s still #inktober. The ink is also, again on my mind.   
+  
+Contrast that with li king, I've been VERY anti kings and lies lately. Not, because of any real Kings in the world that I'm totally ignoring. But, because of the concept of kings and ""king-making"" both in fiction and in the actual wealth gap, I’m mentality weary of the wealthy ruling over and destroying for profit ""everything"" a.k.a. the planet we all share air and water on.  
+  
+All this typing to say, yes, this IS an error, meant liking, typed linking, posted it via copy & paste of a link on 6 social media platforms and didn't even notice the error until the next morning with coffee. That was Sunday. I don't like to pay attention to social media on the weekends because my BFF works 5/10+ hour days remote and I'd rather pay attention to the world I'm in and ignore the world via screens as much as is physically possible on weekends and I already “wasted/spent” half a day on Saturday on the social media.",1,1846,5.816702573,Long
+813,cyrilhent,"The question was who do you think ""emerges out of Democrat[ic] field"" (i.e. wins the democratic nomination). Republicans are not options for winning Democratic primaries.",1,170,0.032815858,Long
+814,Traveller161,That’s the only thing wrong with his opinions. Everything else is way better than the other 2 geriatric idiots.,-1,111,-0.17079352,Medium
+815,Holysquall,Klobuchar would crush Tucker,0,28,-0.45722705,Short
+816,,"There is an option. You can prevent republicans turning the USA into a christofacist dictatorship by voting for Biden. You are making a decision to not do your part to prevent that. Trump is also far more anti-Muslim so by you consciously allowing to to win you are hurting your own cause. You think that not participating in democracy admonishes you from responsibility and accountability? Fuck outta here with that stupid and false belief. 
+
+We could end hunger and homelessness but as long as republicans yield the power they do, that will never happen.",1,556,1.364904326,Long
+817,Immediate-Assist-598,"Yes, amongst all current politicians who might seek the Dem nomination, Newsom is the best and strongest, above Kamala Harris.   But I hope Matthew mcConaughey runs. I want to win Texas too.  I don't just want the Putin-backed Trump or Desantis beatan, I want them destroyed in a landslide.",1,290,0.446936625,Long
+818,MikelDP,I agree with all of this.... And clean air.,1,43,-0.405461954,Short
+819,Uva_Be,How old are you? ... I attempted to start this conversation years ago by the way. Way before 2024.,1,98,-0.215656603,Medium
+820,,"Come on Trump went on about his shoes and then told security to stop so he could use the event as a photo opportunity. He is working this so called assault as an election tool and Republicans are all over it and you’re not checking Project 2025 are you?  IT WORKED! A day before their convention opens? I think it was broken glass not a bullet that hit him. The injury looks like a very bad cut. It is sad for the injured and dead who went to watch the orange anti-christ wannabe orange Jesus turd. There is just too many coincidences and inconsistencies that make me wonder but as much as I wish I could give Trump the benefit of the doubt?  Also the screens were the first time done at a rally, the shooter was seen and police did nothing, unfortunately the shooter was killed so no ability to question the YOUNG 20 YEAR OLD REGISTERED REPUBLICAN. ITS NOT PASSING THE SMELL TEST BUT I DO HOPE I AM WRONG. I HOPE THAT I AM WRONG BUT IT WAS STAGED TO GET ELECTION VOTE SYMPATHY FOR THE REALITY SHOW ACTOR.  The question is does it matter enough to let TRUMP and possibly a facist like JD VANCE TO WIN?  That is the Republican Party’s desired interest. This doesn’t mean I want Trump dead but rather it is just a bit too smelly to trust a man who has built his reputation on deception, toxic ideologies , fraud, theft, bullying, grifting, destruction and deceit, evil and I can’t bring myself to keep going as my finger would cramp describing a desperate 78 year old felon who is clearly clawing his way to win to stay out of jail. He will go down in history with his followers as the most evil Americans in history. God bless those killed and injured but in a he eyes of those evil Trump soldiers the loss was a necessary evil in a war between Evil Trump and God and Democracy. I wish they had not gone to see him as they would still be alive and well. Personally I don’t think it was the first attempt as he was sent white powder and at a rally a viewer pulled a gun unsuccessfully to shoot him (look it up in the internet) nor will it be the last attempt. If anything it will have put out there ideas which next time may succeed which will be an unfortunate use of violence. Thank god the shooter did not have a gun with a bump stock like those approved by the fascists on SCOTUS.",-1,2282,7.321341361,Long
+821,Uva_Be,"Totally, both Harris and Waltz are normal, non-toxic humans who will sincerely do their best for the American people, and work to uphold the constitution. 
+
+Too much said about the other guy. I'm so sick and tired of everything he represents, and says, and how he dances. etc...",1,278,0.405524548,Long
+822,Uva_Be,"Okay, good to know about AOC, \*blerg\* I'm not going give up on her until she actually loses. She is human, I get it. But, I still like her a lot .  
+
+I should read the specifics about that Ukraine aid. I know people in Ukraine and from Ukraine and Russia actually, and I am having a very difficult time following the news, I just weep and am totally useless when it comes to fear or WW3, I'm a total anti-war, hate-war wimp. 
+
+I think McConaughey is ""interesting"". I like him. I'd totally vote for him myself.",1,511,1.209609038,Long
+823,Writetolive8,"People should definitely watch this before November:
+https://m.imdb.com/title/tt12304596/",0,89,-0.24671566,Medium
+824,SunnyNowAndThen,"You are for rfkjr who can barely talk - that is a psychological condition by the way, not a physical one and you should wonder about a man showing hysterical physical symptoms - and you are dogging Biden for talking too fast?  There is nothing corrupt about Biden.  rfkjr has a lifetime of lying and bad deeds.  Unless he has updated his Wikipedia they are there for the reading among other sources.  trump IS a crook, rfkjr is a flake and a lunatic.  If you have no idea of all that Biden has done for you then you really shouldn't vote at all.",-1,545,1.326943255,Long
+825,Crafty_Extension7334,"Seriously? 
+
+“Today is today. And yesterday was today yesterday. Tomorrow will be today tomorrow. So live today, so the future today will be as the past today as it is tomorrow.” 
+
+
+“ You think you just fell out of a coconut tree…You exist in the context of all in which you live and what came before you.”",-1,306,0.502152727,Long
+826,floridapoliticalnews,Michelle Obama. She's the one Dem that would absolutely crush opponents in the primary and general election. I know she has said she doesn't want to but she could ultimately feel compelled and convinced that her entry is necessary. Some good points to consider in this op-ed: https://2024field.com/2022/05/opinion-michelle-obama-is-the-potential-2024-presidential-candidate-the-gop-should-fear-most/,1,399,0.823096322,Long
+827,Uva_Be,"It is not a poll. This is the official vote count for Washington State. The State in the upper North West corner of the US, not Washington D.C. We are a good indicator for elections because we vote late/after almost everyone else, and we have a good mix of urban and rural population.",1,284,0.426230586,Long
